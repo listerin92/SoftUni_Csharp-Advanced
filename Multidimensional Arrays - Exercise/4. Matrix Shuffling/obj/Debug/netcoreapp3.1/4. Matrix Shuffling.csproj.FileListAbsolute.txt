@@ -1,0 +1,12 @@
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Multidimensional Arrays - Exercise\4. Matrix Shuffling\bin\Debug\netcoreapp3.1\4. Matrix Shuffling.exe
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Multidimensional Arrays - Exercise\4. Matrix Shuffling\bin\Debug\netcoreapp3.1\4. Matrix Shuffling.deps.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Multidimensional Arrays - Exercise\4. Matrix Shuffling\bin\Debug\netcoreapp3.1\4. Matrix Shuffling.runtimeconfig.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Multidimensional Arrays - Exercise\4. Matrix Shuffling\bin\Debug\netcoreapp3.1\4. Matrix Shuffling.runtimeconfig.dev.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Multidimensional Arrays - Exercise\4. Matrix Shuffling\bin\Debug\netcoreapp3.1\4. Matrix Shuffling.dll
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Multidimensional Arrays - Exercise\4. Matrix Shuffling\bin\Debug\netcoreapp3.1\4. Matrix Shuffling.pdb
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Multidimensional Arrays - Exercise\4. Matrix Shuffling\obj\Debug\netcoreapp3.1\4. Matrix Shuffling.csproj.CoreCompileInputs.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Multidimensional Arrays - Exercise\4. Matrix Shuffling\obj\Debug\netcoreapp3.1\4. Matrix Shuffling.AssemblyInfoInputs.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Multidimensional Arrays - Exercise\4. Matrix Shuffling\obj\Debug\netcoreapp3.1\4. Matrix Shuffling.AssemblyInfo.cs
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Multidimensional Arrays - Exercise\4. Matrix Shuffling\obj\Debug\netcoreapp3.1\4. Matrix Shuffling.dll
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Multidimensional Arrays - Exercise\4. Matrix Shuffling\obj\Debug\netcoreapp3.1\4. Matrix Shuffling.pdb
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Multidimensional Arrays - Exercise\4. Matrix Shuffling\obj\Debug\netcoreapp3.1\4. Matrix Shuffling.genruntimeconfig.cache

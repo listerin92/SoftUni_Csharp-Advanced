@@ -1,0 +1,12 @@
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\StackAndQueue\6. Supermarket\bin\Debug\netcoreapp3.1\6. Supermarket.exe
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\StackAndQueue\6. Supermarket\bin\Debug\netcoreapp3.1\6. Supermarket.deps.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\StackAndQueue\6. Supermarket\bin\Debug\netcoreapp3.1\6. Supermarket.runtimeconfig.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\StackAndQueue\6. Supermarket\bin\Debug\netcoreapp3.1\6. Supermarket.runtimeconfig.dev.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\StackAndQueue\6. Supermarket\bin\Debug\netcoreapp3.1\6. Supermarket.dll
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\StackAndQueue\6. Supermarket\bin\Debug\netcoreapp3.1\6. Supermarket.pdb
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\StackAndQueue\6. Supermarket\obj\Debug\netcoreapp3.1\6. Supermarket.csproj.CoreCompileInputs.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\StackAndQueue\6. Supermarket\obj\Debug\netcoreapp3.1\6. Supermarket.AssemblyInfoInputs.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\StackAndQueue\6. Supermarket\obj\Debug\netcoreapp3.1\6. Supermarket.AssemblyInfo.cs
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\StackAndQueue\6. Supermarket\obj\Debug\netcoreapp3.1\6. Supermarket.dll
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\StackAndQueue\6. Supermarket\obj\Debug\netcoreapp3.1\6. Supermarket.pdb
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\StackAndQueue\6. Supermarket\obj\Debug\netcoreapp3.1\6. Supermarket.genruntimeconfig.cache

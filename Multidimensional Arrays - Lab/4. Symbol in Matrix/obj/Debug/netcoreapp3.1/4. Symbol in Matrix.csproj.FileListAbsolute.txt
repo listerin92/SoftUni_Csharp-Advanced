@@ -1,0 +1,13 @@
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Multidimensional Arrays - Lab\4. Symbol in Matrix\bin\Debug\netcoreapp3.1\4. Symbol in Matrix.exe
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Multidimensional Arrays - Lab\4. Symbol in Matrix\bin\Debug\netcoreapp3.1\4. Symbol in Matrix.deps.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Multidimensional Arrays - Lab\4. Symbol in Matrix\bin\Debug\netcoreapp3.1\4. Symbol in Matrix.runtimeconfig.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Multidimensional Arrays - Lab\4. Symbol in Matrix\bin\Debug\netcoreapp3.1\4. Symbol in Matrix.runtimeconfig.dev.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Multidimensional Arrays - Lab\4. Symbol in Matrix\bin\Debug\netcoreapp3.1\4. Symbol in Matrix.dll
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Multidimensional Arrays - Lab\4. Symbol in Matrix\bin\Debug\netcoreapp3.1\4. Symbol in Matrix.pdb
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Multidimensional Arrays - Lab\4. Symbol in Matrix\obj\Debug\netcoreapp3.1\4. Symbol in Matrix.csprojAssemblyReference.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Multidimensional Arrays - Lab\4. Symbol in Matrix\obj\Debug\netcoreapp3.1\4. Symbol in Matrix.csproj.CoreCompileInputs.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Multidimensional Arrays - Lab\4. Symbol in Matrix\obj\Debug\netcoreapp3.1\4. Symbol in Matrix.AssemblyInfoInputs.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Multidimensional Arrays - Lab\4. Symbol in Matrix\obj\Debug\netcoreapp3.1\4. Symbol in Matrix.AssemblyInfo.cs
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Multidimensional Arrays - Lab\4. Symbol in Matrix\obj\Debug\netcoreapp3.1\4. Symbol in Matrix.dll
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Multidimensional Arrays - Lab\4. Symbol in Matrix\obj\Debug\netcoreapp3.1\4. Symbol in Matrix.pdb
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Multidimensional Arrays - Lab\4. Symbol in Matrix\obj\Debug\netcoreapp3.1\4. Symbol in Matrix.genruntimeconfig.cache

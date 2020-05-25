@@ -1,0 +1,12 @@
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\StackAndQueue\8. Traffic Jam\bin\Debug\netcoreapp3.1\8. Traffic Jam.exe
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\StackAndQueue\8. Traffic Jam\bin\Debug\netcoreapp3.1\8. Traffic Jam.deps.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\StackAndQueue\8. Traffic Jam\bin\Debug\netcoreapp3.1\8. Traffic Jam.runtimeconfig.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\StackAndQueue\8. Traffic Jam\bin\Debug\netcoreapp3.1\8. Traffic Jam.runtimeconfig.dev.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\StackAndQueue\8. Traffic Jam\bin\Debug\netcoreapp3.1\8. Traffic Jam.dll
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\StackAndQueue\8. Traffic Jam\bin\Debug\netcoreapp3.1\8. Traffic Jam.pdb
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\StackAndQueue\8. Traffic Jam\obj\Debug\netcoreapp3.1\8. Traffic Jam.csproj.CoreCompileInputs.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\StackAndQueue\8. Traffic Jam\obj\Debug\netcoreapp3.1\8. Traffic Jam.AssemblyInfoInputs.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\StackAndQueue\8. Traffic Jam\obj\Debug\netcoreapp3.1\8. Traffic Jam.AssemblyInfo.cs
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\StackAndQueue\8. Traffic Jam\obj\Debug\netcoreapp3.1\8. Traffic Jam.dll
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\StackAndQueue\8. Traffic Jam\obj\Debug\netcoreapp3.1\8. Traffic Jam.pdb
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\StackAndQueue\8. Traffic Jam\obj\Debug\netcoreapp3.1\8. Traffic Jam.genruntimeconfig.cache

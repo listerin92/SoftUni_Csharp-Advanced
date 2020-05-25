@@ -1,0 +1,13 @@
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Stacks And Queues\09. Simple Text Editor\bin\Debug\netcoreapp3.1\09. Simple Text Editor.exe
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Stacks And Queues\09. Simple Text Editor\bin\Debug\netcoreapp3.1\09. Simple Text Editor.deps.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Stacks And Queues\09. Simple Text Editor\bin\Debug\netcoreapp3.1\09. Simple Text Editor.runtimeconfig.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Stacks And Queues\09. Simple Text Editor\bin\Debug\netcoreapp3.1\09. Simple Text Editor.runtimeconfig.dev.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Stacks And Queues\09. Simple Text Editor\bin\Debug\netcoreapp3.1\09. Simple Text Editor.dll
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Stacks And Queues\09. Simple Text Editor\bin\Debug\netcoreapp3.1\09. Simple Text Editor.pdb
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Stacks And Queues\09. Simple Text Editor\obj\Debug\netcoreapp3.1\09. Simple Text Editor.csprojAssemblyReference.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Stacks And Queues\09. Simple Text Editor\obj\Debug\netcoreapp3.1\09. Simple Text Editor.csproj.CoreCompileInputs.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Stacks And Queues\09. Simple Text Editor\obj\Debug\netcoreapp3.1\09. Simple Text Editor.AssemblyInfoInputs.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Stacks And Queues\09. Simple Text Editor\obj\Debug\netcoreapp3.1\09. Simple Text Editor.AssemblyInfo.cs
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Stacks And Queues\09. Simple Text Editor\obj\Debug\netcoreapp3.1\09. Simple Text Editor.dll
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Stacks And Queues\09. Simple Text Editor\obj\Debug\netcoreapp3.1\09. Simple Text Editor.pdb
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Stacks And Queues\09. Simple Text Editor\obj\Debug\netcoreapp3.1\09. Simple Text Editor.genruntimeconfig.cache

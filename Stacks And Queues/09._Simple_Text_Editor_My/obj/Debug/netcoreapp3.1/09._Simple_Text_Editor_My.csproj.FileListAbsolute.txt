@@ -1,0 +1,12 @@
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Stacks And Queues\09._Simple_Text_Editor_My\bin\Debug\netcoreapp3.1\09._Simple_Text_Editor_My.exe
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Stacks And Queues\09._Simple_Text_Editor_My\bin\Debug\netcoreapp3.1\09._Simple_Text_Editor_My.deps.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Stacks And Queues\09._Simple_Text_Editor_My\bin\Debug\netcoreapp3.1\09._Simple_Text_Editor_My.runtimeconfig.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Stacks And Queues\09._Simple_Text_Editor_My\bin\Debug\netcoreapp3.1\09._Simple_Text_Editor_My.runtimeconfig.dev.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Stacks And Queues\09._Simple_Text_Editor_My\bin\Debug\netcoreapp3.1\09._Simple_Text_Editor_My.dll
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Stacks And Queues\09._Simple_Text_Editor_My\bin\Debug\netcoreapp3.1\09._Simple_Text_Editor_My.pdb
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Stacks And Queues\09._Simple_Text_Editor_My\obj\Debug\netcoreapp3.1\09._Simple_Text_Editor_My.csproj.CoreCompileInputs.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Stacks And Queues\09._Simple_Text_Editor_My\obj\Debug\netcoreapp3.1\09._Simple_Text_Editor_My.AssemblyInfoInputs.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Stacks And Queues\09._Simple_Text_Editor_My\obj\Debug\netcoreapp3.1\09._Simple_Text_Editor_My.AssemblyInfo.cs
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Stacks And Queues\09._Simple_Text_Editor_My\obj\Debug\netcoreapp3.1\09._Simple_Text_Editor_My.dll
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Stacks And Queues\09._Simple_Text_Editor_My\obj\Debug\netcoreapp3.1\09._Simple_Text_Editor_My.pdb
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Stacks And Queues\09._Simple_Text_Editor_My\obj\Debug\netcoreapp3.1\09._Simple_Text_Editor_My.genruntimeconfig.cache

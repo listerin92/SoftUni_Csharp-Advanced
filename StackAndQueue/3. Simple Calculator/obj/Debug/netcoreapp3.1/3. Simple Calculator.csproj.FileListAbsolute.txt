@@ -1,0 +1,13 @@
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\StackAndQueue\3. Simple Calculator\bin\Debug\netcoreapp3.1\3. Simple Calculator.exe
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\StackAndQueue\3. Simple Calculator\bin\Debug\netcoreapp3.1\3. Simple Calculator.deps.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\StackAndQueue\3. Simple Calculator\bin\Debug\netcoreapp3.1\3. Simple Calculator.runtimeconfig.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\StackAndQueue\3. Simple Calculator\bin\Debug\netcoreapp3.1\3. Simple Calculator.runtimeconfig.dev.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\StackAndQueue\3. Simple Calculator\bin\Debug\netcoreapp3.1\3. Simple Calculator.dll
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\StackAndQueue\3. Simple Calculator\bin\Debug\netcoreapp3.1\3. Simple Calculator.pdb
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\StackAndQueue\3. Simple Calculator\obj\Debug\netcoreapp3.1\3. Simple Calculator.csprojAssemblyReference.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\StackAndQueue\3. Simple Calculator\obj\Debug\netcoreapp3.1\3. Simple Calculator.csproj.CoreCompileInputs.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\StackAndQueue\3. Simple Calculator\obj\Debug\netcoreapp3.1\3. Simple Calculator.AssemblyInfoInputs.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\StackAndQueue\3. Simple Calculator\obj\Debug\netcoreapp3.1\3. Simple Calculator.AssemblyInfo.cs
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\StackAndQueue\3. Simple Calculator\obj\Debug\netcoreapp3.1\3. Simple Calculator.dll
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\StackAndQueue\3. Simple Calculator\obj\Debug\netcoreapp3.1\3. Simple Calculator.pdb
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\StackAndQueue\3. Simple Calculator\obj\Debug\netcoreapp3.1\3. Simple Calculator.genruntimeconfig.cache

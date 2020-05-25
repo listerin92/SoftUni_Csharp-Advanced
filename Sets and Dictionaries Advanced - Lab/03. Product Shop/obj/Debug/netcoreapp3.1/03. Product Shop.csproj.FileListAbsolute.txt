@@ -1,0 +1,13 @@
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Sets and Dictionaries Advanced - Lab\03. Product Shop\bin\Debug\netcoreapp3.1\03. Product Shop.exe
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Sets and Dictionaries Advanced - Lab\03. Product Shop\bin\Debug\netcoreapp3.1\03. Product Shop.deps.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Sets and Dictionaries Advanced - Lab\03. Product Shop\bin\Debug\netcoreapp3.1\03. Product Shop.runtimeconfig.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Sets and Dictionaries Advanced - Lab\03. Product Shop\bin\Debug\netcoreapp3.1\03. Product Shop.runtimeconfig.dev.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Sets and Dictionaries Advanced - Lab\03. Product Shop\bin\Debug\netcoreapp3.1\03. Product Shop.dll
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Sets and Dictionaries Advanced - Lab\03. Product Shop\bin\Debug\netcoreapp3.1\03. Product Shop.pdb
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Sets and Dictionaries Advanced - Lab\03. Product Shop\obj\Debug\netcoreapp3.1\03. Product Shop.csprojAssemblyReference.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Sets and Dictionaries Advanced - Lab\03. Product Shop\obj\Debug\netcoreapp3.1\03. Product Shop.csproj.CoreCompileInputs.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Sets and Dictionaries Advanced - Lab\03. Product Shop\obj\Debug\netcoreapp3.1\03. Product Shop.AssemblyInfoInputs.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Sets and Dictionaries Advanced - Lab\03. Product Shop\obj\Debug\netcoreapp3.1\03. Product Shop.AssemblyInfo.cs
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Sets and Dictionaries Advanced - Lab\03. Product Shop\obj\Debug\netcoreapp3.1\03. Product Shop.dll
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Sets and Dictionaries Advanced - Lab\03. Product Shop\obj\Debug\netcoreapp3.1\03. Product Shop.pdb
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Sets and Dictionaries Advanced - Lab\03. Product Shop\obj\Debug\netcoreapp3.1\03. Product Shop.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Stacks And Queues\06. Songs Queue\obj\Debug\netcoreapp3.1\06. Songs Queue.csprojAssemblyReference.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Stacks And Queues\06. Songs Queue\obj\Debug\netcoreapp3.1\06. Songs Queue.csproj.CoreCompileInputs.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Stacks And Queues\06. Songs Queue\obj\Debug\netcoreapp3.1\06. Songs Queue.AssemblyInfoInputs.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Stacks And Queues\06. Songs Queue\obj\Debug\netcoreapp3.1\06. Songs Queue.AssemblyInfo.cs
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Stacks And Queues\06. Songs Queue\bin\Debug\netcoreapp3.1\06. Songs Queue.exe
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Stacks And Queues\06. Songs Queue\bin\Debug\netcoreapp3.1\06. Songs Queue.deps.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Stacks And Queues\06. Songs Queue\bin\Debug\netcoreapp3.1\06. Songs Queue.runtimeconfig.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Stacks And Queues\06. Songs Queue\bin\Debug\netcoreapp3.1\06. Songs Queue.runtimeconfig.dev.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Stacks And Queues\06. Songs Queue\bin\Debug\netcoreapp3.1\06. Songs Queue.dll
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Stacks And Queues\06. Songs Queue\bin\Debug\netcoreapp3.1\06. Songs Queue.pdb
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Stacks And Queues\06. Songs Queue\obj\Debug\netcoreapp3.1\06. Songs Queue.dll
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Stacks And Queues\06. Songs Queue\obj\Debug\netcoreapp3.1\06. Songs Queue.pdb
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Stacks And Queues\06. Songs Queue\obj\Debug\netcoreapp3.1\06. Songs Queue.genruntimeconfig.cache

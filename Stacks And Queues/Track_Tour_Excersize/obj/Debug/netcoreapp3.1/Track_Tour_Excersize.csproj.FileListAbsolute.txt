@@ -1,0 +1,13 @@
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Stacks And Queues\Track_Tour_Excersize\bin\Debug\netcoreapp3.1\Track_Tour_Excersize.exe
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Stacks And Queues\Track_Tour_Excersize\bin\Debug\netcoreapp3.1\Track_Tour_Excersize.deps.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Stacks And Queues\Track_Tour_Excersize\bin\Debug\netcoreapp3.1\Track_Tour_Excersize.runtimeconfig.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Stacks And Queues\Track_Tour_Excersize\bin\Debug\netcoreapp3.1\Track_Tour_Excersize.runtimeconfig.dev.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Stacks And Queues\Track_Tour_Excersize\bin\Debug\netcoreapp3.1\Track_Tour_Excersize.dll
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Stacks And Queues\Track_Tour_Excersize\bin\Debug\netcoreapp3.1\Track_Tour_Excersize.pdb
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Stacks And Queues\Track_Tour_Excersize\obj\Debug\netcoreapp3.1\Track_Tour_Excersize.csprojAssemblyReference.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Stacks And Queues\Track_Tour_Excersize\obj\Debug\netcoreapp3.1\Track_Tour_Excersize.csproj.CoreCompileInputs.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Stacks And Queues\Track_Tour_Excersize\obj\Debug\netcoreapp3.1\Track_Tour_Excersize.AssemblyInfoInputs.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Stacks And Queues\Track_Tour_Excersize\obj\Debug\netcoreapp3.1\Track_Tour_Excersize.AssemblyInfo.cs
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Stacks And Queues\Track_Tour_Excersize\obj\Debug\netcoreapp3.1\Track_Tour_Excersize.dll
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Stacks And Queues\Track_Tour_Excersize\obj\Debug\netcoreapp3.1\Track_Tour_Excersize.pdb
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Stacks And Queues\Track_Tour_Excersize\obj\Debug\netcoreapp3.1\Track_Tour_Excersize.genruntimeconfig.cache

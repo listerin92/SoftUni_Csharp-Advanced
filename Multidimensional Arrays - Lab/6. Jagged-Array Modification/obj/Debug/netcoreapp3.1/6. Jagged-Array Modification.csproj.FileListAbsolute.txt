@@ -1,0 +1,12 @@
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Multidimensional Arrays - Lab\6. Jagged-Array Modification\bin\Debug\netcoreapp3.1\6. Jagged-Array Modification.exe
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Multidimensional Arrays - Lab\6. Jagged-Array Modification\bin\Debug\netcoreapp3.1\6. Jagged-Array Modification.deps.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Multidimensional Arrays - Lab\6. Jagged-Array Modification\bin\Debug\netcoreapp3.1\6. Jagged-Array Modification.runtimeconfig.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Multidimensional Arrays - Lab\6. Jagged-Array Modification\bin\Debug\netcoreapp3.1\6. Jagged-Array Modification.runtimeconfig.dev.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Multidimensional Arrays - Lab\6. Jagged-Array Modification\bin\Debug\netcoreapp3.1\6. Jagged-Array Modification.dll
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Multidimensional Arrays - Lab\6. Jagged-Array Modification\bin\Debug\netcoreapp3.1\6. Jagged-Array Modification.pdb
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Multidimensional Arrays - Lab\6. Jagged-Array Modification\obj\Debug\netcoreapp3.1\6. Jagged-Array Modification.csproj.CoreCompileInputs.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Multidimensional Arrays - Lab\6. Jagged-Array Modification\obj\Debug\netcoreapp3.1\6. Jagged-Array Modification.AssemblyInfoInputs.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Multidimensional Arrays - Lab\6. Jagged-Array Modification\obj\Debug\netcoreapp3.1\6. Jagged-Array Modification.AssemblyInfo.cs
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Multidimensional Arrays - Lab\6. Jagged-Array Modification\obj\Debug\netcoreapp3.1\6. Jagged-Array Modification.dll
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Multidimensional Arrays - Lab\6. Jagged-Array Modification\obj\Debug\netcoreapp3.1\6. Jagged-Array Modification.pdb
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Multidimensional Arrays - Lab\6. Jagged-Array Modification\obj\Debug\netcoreapp3.1\6. Jagged-Array Modification.genruntimeconfig.cache

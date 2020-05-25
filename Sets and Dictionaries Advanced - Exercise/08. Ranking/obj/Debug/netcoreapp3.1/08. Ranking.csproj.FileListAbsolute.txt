@@ -1,0 +1,13 @@
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Sets and Dictionaries Advanced - Exercise\08. Ranking\bin\Debug\netcoreapp3.1\08. Ranking.exe
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Sets and Dictionaries Advanced - Exercise\08. Ranking\bin\Debug\netcoreapp3.1\08. Ranking.deps.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Sets and Dictionaries Advanced - Exercise\08. Ranking\bin\Debug\netcoreapp3.1\08. Ranking.runtimeconfig.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Sets and Dictionaries Advanced - Exercise\08. Ranking\bin\Debug\netcoreapp3.1\08. Ranking.runtimeconfig.dev.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Sets and Dictionaries Advanced - Exercise\08. Ranking\bin\Debug\netcoreapp3.1\08. Ranking.dll
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Sets and Dictionaries Advanced - Exercise\08. Ranking\bin\Debug\netcoreapp3.1\08. Ranking.pdb
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Sets and Dictionaries Advanced - Exercise\08. Ranking\obj\Debug\netcoreapp3.1\08. Ranking.csproj.CoreCompileInputs.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Sets and Dictionaries Advanced - Exercise\08. Ranking\obj\Debug\netcoreapp3.1\08. Ranking.AssemblyInfoInputs.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Sets and Dictionaries Advanced - Exercise\08. Ranking\obj\Debug\netcoreapp3.1\08. Ranking.AssemblyInfo.cs
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Sets and Dictionaries Advanced - Exercise\08. Ranking\obj\Debug\netcoreapp3.1\08. Ranking.dll
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Sets and Dictionaries Advanced - Exercise\08. Ranking\obj\Debug\netcoreapp3.1\08. Ranking.pdb
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Sets and Dictionaries Advanced - Exercise\08. Ranking\obj\Debug\netcoreapp3.1\08. Ranking.genruntimeconfig.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Sets and Dictionaries Advanced - Exercise\08. Ranking\obj\Debug\netcoreapp3.1\08. Ranking.csprojAssemblyReference.cache

@@ -1,0 +1,13 @@
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\StackAndQueue\2. Stack Sum\bin\Debug\netcoreapp3.1\2. Stack Sum.exe
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\StackAndQueue\2. Stack Sum\bin\Debug\netcoreapp3.1\2. Stack Sum.deps.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\StackAndQueue\2. Stack Sum\bin\Debug\netcoreapp3.1\2. Stack Sum.runtimeconfig.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\StackAndQueue\2. Stack Sum\bin\Debug\netcoreapp3.1\2. Stack Sum.runtimeconfig.dev.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\StackAndQueue\2. Stack Sum\bin\Debug\netcoreapp3.1\2. Stack Sum.dll
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\StackAndQueue\2. Stack Sum\bin\Debug\netcoreapp3.1\2. Stack Sum.pdb
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\StackAndQueue\2. Stack Sum\obj\Debug\netcoreapp3.1\2. Stack Sum.csprojAssemblyReference.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\StackAndQueue\2. Stack Sum\obj\Debug\netcoreapp3.1\2. Stack Sum.csproj.CoreCompileInputs.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\StackAndQueue\2. Stack Sum\obj\Debug\netcoreapp3.1\2. Stack Sum.AssemblyInfoInputs.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\StackAndQueue\2. Stack Sum\obj\Debug\netcoreapp3.1\2. Stack Sum.AssemblyInfo.cs
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\StackAndQueue\2. Stack Sum\obj\Debug\netcoreapp3.1\2. Stack Sum.dll
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\StackAndQueue\2. Stack Sum\obj\Debug\netcoreapp3.1\2. Stack Sum.pdb
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\StackAndQueue\2. Stack Sum\obj\Debug\netcoreapp3.1\2. Stack Sum.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\bin\Debug\netcoreapp3.1\02. Average Student Grades.exe
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\bin\Debug\netcoreapp3.1\02. Average Student Grades.deps.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\bin\Debug\netcoreapp3.1\02. Average Student Grades.runtimeconfig.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\bin\Debug\netcoreapp3.1\02. Average Student Grades.runtimeconfig.dev.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\bin\Debug\netcoreapp3.1\02. Average Student Grades.dll
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\bin\Debug\netcoreapp3.1\02. Average Student Grades.pdb
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\netcoreapp3.1\02. Average Student Grades.csprojAssemblyReference.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\netcoreapp3.1\02. Average Student Grades.csproj.CoreCompileInputs.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\netcoreapp3.1\02. Average Student Grades.AssemblyInfoInputs.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\netcoreapp3.1\02. Average Student Grades.AssemblyInfo.cs
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\netcoreapp3.1\02. Average Student Grades.dll
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\netcoreapp3.1\02. Average Student Grades.pdb
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\netcoreapp3.1\02. Average Student Grades.genruntimeconfig.cache

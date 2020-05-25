@@ -1,0 +1,13 @@
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Sets and Dictionaries Advanced - Lab\05. Record Unique Names\bin\Debug\netcoreapp3.1\05. Record Unique Names.exe
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Sets and Dictionaries Advanced - Lab\05. Record Unique Names\bin\Debug\netcoreapp3.1\05. Record Unique Names.deps.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Sets and Dictionaries Advanced - Lab\05. Record Unique Names\bin\Debug\netcoreapp3.1\05. Record Unique Names.runtimeconfig.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Sets and Dictionaries Advanced - Lab\05. Record Unique Names\bin\Debug\netcoreapp3.1\05. Record Unique Names.runtimeconfig.dev.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Sets and Dictionaries Advanced - Lab\05. Record Unique Names\bin\Debug\netcoreapp3.1\05. Record Unique Names.dll
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Sets and Dictionaries Advanced - Lab\05. Record Unique Names\bin\Debug\netcoreapp3.1\05. Record Unique Names.pdb
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Sets and Dictionaries Advanced - Lab\05. Record Unique Names\obj\Debug\netcoreapp3.1\05. Record Unique Names.csprojAssemblyReference.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Sets and Dictionaries Advanced - Lab\05. Record Unique Names\obj\Debug\netcoreapp3.1\05. Record Unique Names.csproj.CoreCompileInputs.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Sets and Dictionaries Advanced - Lab\05. Record Unique Names\obj\Debug\netcoreapp3.1\05. Record Unique Names.AssemblyInfoInputs.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Sets and Dictionaries Advanced - Lab\05. Record Unique Names\obj\Debug\netcoreapp3.1\05. Record Unique Names.AssemblyInfo.cs
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Sets and Dictionaries Advanced - Lab\05. Record Unique Names\obj\Debug\netcoreapp3.1\05. Record Unique Names.dll
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Sets and Dictionaries Advanced - Lab\05. Record Unique Names\obj\Debug\netcoreapp3.1\05. Record Unique Names.pdb
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Sets and Dictionaries Advanced - Lab\05. Record Unique Names\obj\Debug\netcoreapp3.1\05. Record Unique Names.genruntimeconfig.cache

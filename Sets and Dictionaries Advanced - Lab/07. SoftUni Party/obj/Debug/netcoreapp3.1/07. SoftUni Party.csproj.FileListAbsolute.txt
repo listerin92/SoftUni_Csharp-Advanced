@@ -1,0 +1,12 @@
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Sets and Dictionaries Advanced - Lab\07. SoftUni Party\bin\Debug\netcoreapp3.1\07. SoftUni Party.exe
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Sets and Dictionaries Advanced - Lab\07. SoftUni Party\bin\Debug\netcoreapp3.1\07. SoftUni Party.deps.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Sets and Dictionaries Advanced - Lab\07. SoftUni Party\bin\Debug\netcoreapp3.1\07. SoftUni Party.runtimeconfig.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Sets and Dictionaries Advanced - Lab\07. SoftUni Party\bin\Debug\netcoreapp3.1\07. SoftUni Party.runtimeconfig.dev.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Sets and Dictionaries Advanced - Lab\07. SoftUni Party\bin\Debug\netcoreapp3.1\07. SoftUni Party.dll
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Sets and Dictionaries Advanced - Lab\07. SoftUni Party\bin\Debug\netcoreapp3.1\07. SoftUni Party.pdb
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Sets and Dictionaries Advanced - Lab\07. SoftUni Party\obj\Debug\netcoreapp3.1\07. SoftUni Party.csproj.CoreCompileInputs.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Sets and Dictionaries Advanced - Lab\07. SoftUni Party\obj\Debug\netcoreapp3.1\07. SoftUni Party.AssemblyInfoInputs.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Sets and Dictionaries Advanced - Lab\07. SoftUni Party\obj\Debug\netcoreapp3.1\07. SoftUni Party.AssemblyInfo.cs
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Sets and Dictionaries Advanced - Lab\07. SoftUni Party\obj\Debug\netcoreapp3.1\07. SoftUni Party.dll
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Sets and Dictionaries Advanced - Lab\07. SoftUni Party\obj\Debug\netcoreapp3.1\07. SoftUni Party.pdb
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Sets and Dictionaries Advanced - Lab\07. SoftUni Party\obj\Debug\netcoreapp3.1\07. SoftUni Party.genruntimeconfig.cache

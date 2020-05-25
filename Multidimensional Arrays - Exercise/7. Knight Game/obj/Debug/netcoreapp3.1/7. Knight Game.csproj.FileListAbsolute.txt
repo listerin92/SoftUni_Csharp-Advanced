@@ -1,0 +1,13 @@
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Multidimensional Arrays - Exercise\7. Knight Game\bin\Debug\netcoreapp3.1\7. Knight Game.exe
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Multidimensional Arrays - Exercise\7. Knight Game\bin\Debug\netcoreapp3.1\7. Knight Game.deps.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Multidimensional Arrays - Exercise\7. Knight Game\bin\Debug\netcoreapp3.1\7. Knight Game.runtimeconfig.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Multidimensional Arrays - Exercise\7. Knight Game\bin\Debug\netcoreapp3.1\7. Knight Game.runtimeconfig.dev.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Multidimensional Arrays - Exercise\7. Knight Game\bin\Debug\netcoreapp3.1\7. Knight Game.dll
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Multidimensional Arrays - Exercise\7. Knight Game\bin\Debug\netcoreapp3.1\7. Knight Game.pdb
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Multidimensional Arrays - Exercise\7. Knight Game\obj\Debug\netcoreapp3.1\7. Knight Game.csproj.CoreCompileInputs.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Multidimensional Arrays - Exercise\7. Knight Game\obj\Debug\netcoreapp3.1\7. Knight Game.AssemblyInfoInputs.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Multidimensional Arrays - Exercise\7. Knight Game\obj\Debug\netcoreapp3.1\7. Knight Game.AssemblyInfo.cs
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Multidimensional Arrays - Exercise\7. Knight Game\obj\Debug\netcoreapp3.1\7. Knight Game.dll
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Multidimensional Arrays - Exercise\7. Knight Game\obj\Debug\netcoreapp3.1\7. Knight Game.pdb
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Multidimensional Arrays - Exercise\7. Knight Game\obj\Debug\netcoreapp3.1\7. Knight Game.genruntimeconfig.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Multidimensional Arrays - Exercise\7. Knight Game\obj\Debug\netcoreapp3.1\7. Knight Game.csprojAssemblyReference.cache

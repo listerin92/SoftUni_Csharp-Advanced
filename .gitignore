@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Documents/01. CSharp-Advanced-Stacks-and-Queues-Lab.docx
+*.docx
+/Documents

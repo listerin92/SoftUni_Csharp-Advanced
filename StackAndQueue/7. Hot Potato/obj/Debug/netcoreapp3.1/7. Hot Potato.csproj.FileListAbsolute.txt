@@ -1,0 +1,12 @@
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\StackAndQueue\7. Hot Potato\bin\Debug\netcoreapp3.1\7. Hot Potato.exe
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\StackAndQueue\7. Hot Potato\bin\Debug\netcoreapp3.1\7. Hot Potato.deps.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\StackAndQueue\7. Hot Potato\bin\Debug\netcoreapp3.1\7. Hot Potato.runtimeconfig.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\StackAndQueue\7. Hot Potato\bin\Debug\netcoreapp3.1\7. Hot Potato.runtimeconfig.dev.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\StackAndQueue\7. Hot Potato\bin\Debug\netcoreapp3.1\7. Hot Potato.dll
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\StackAndQueue\7. Hot Potato\bin\Debug\netcoreapp3.1\7. Hot Potato.pdb
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\StackAndQueue\7. Hot Potato\obj\Debug\netcoreapp3.1\7. Hot Potato.csproj.CoreCompileInputs.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\StackAndQueue\7. Hot Potato\obj\Debug\netcoreapp3.1\7. Hot Potato.AssemblyInfoInputs.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\StackAndQueue\7. Hot Potato\obj\Debug\netcoreapp3.1\7. Hot Potato.AssemblyInfo.cs
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\StackAndQueue\7. Hot Potato\obj\Debug\netcoreapp3.1\7. Hot Potato.dll
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\StackAndQueue\7. Hot Potato\obj\Debug\netcoreapp3.1\7. Hot Potato.pdb
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\StackAndQueue\7. Hot Potato\obj\Debug\netcoreapp3.1\7. Hot Potato.genruntimeconfig.cache

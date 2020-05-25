@@ -1,0 +1,13 @@
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\bin\Debug\netcoreapp3.1\06. Wardrobe.exe
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\bin\Debug\netcoreapp3.1\06. Wardrobe.deps.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\bin\Debug\netcoreapp3.1\06. Wardrobe.runtimeconfig.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\bin\Debug\netcoreapp3.1\06. Wardrobe.runtimeconfig.dev.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\bin\Debug\netcoreapp3.1\06. Wardrobe.dll
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\bin\Debug\netcoreapp3.1\06. Wardrobe.pdb
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\obj\Debug\netcoreapp3.1\06. Wardrobe.csproj.CoreCompileInputs.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\obj\Debug\netcoreapp3.1\06. Wardrobe.AssemblyInfoInputs.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\obj\Debug\netcoreapp3.1\06. Wardrobe.AssemblyInfo.cs
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\obj\Debug\netcoreapp3.1\06. Wardrobe.dll
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\obj\Debug\netcoreapp3.1\06. Wardrobe.pdb
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\obj\Debug\netcoreapp3.1\06. Wardrobe.genruntimeconfig.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\obj\Debug\netcoreapp3.1\06. Wardrobe.csprojAssemblyReference.cache
