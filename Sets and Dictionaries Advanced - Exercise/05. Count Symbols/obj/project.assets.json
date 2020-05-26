@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "J:\\OneDrive\\Documents\\SoftUNI\\SoftUni_Csharp-Advanced\\Sets and Dictionaries Advanced - Exercise\\05. Count Symbols\\05. Count Symbols.csproj",
+      "projectUniqueName": "J:\\OneDrive\\Documents\\SoftUNI\\SoftUni_Csharp-Advanced2\\Sets and Dictionaries Advanced - Exercise\\05. Count Symbols\\05. Count Symbols.csproj",
       "projectName": "05. Count Symbols",
-      "projectPath": "J:\\OneDrive\\Documents\\SoftUNI\\SoftUni_Csharp-Advanced\\Sets and Dictionaries Advanced - Exercise\\05. Count Symbols\\05. Count Symbols.csproj",
+      "projectPath": "J:\\OneDrive\\Documents\\SoftUNI\\SoftUni_Csharp-Advanced2\\Sets and Dictionaries Advanced - Exercise\\05. Count Symbols\\05. Count Symbols.csproj",
       "packagesPath": "C:\\Users\\luzte_000\\.nuget\\packages\\",
-      "outputPath": "J:\\OneDrive\\Documents\\SoftUNI\\SoftUni_Csharp-Advanced\\Sets and Dictionaries Advanced - Exercise\\05. Count Symbols\\obj\\",
+      "outputPath": "J:\\OneDrive\\Documents\\SoftUNI\\SoftUni_Csharp-Advanced2\\Sets and Dictionaries Advanced - Exercise\\05. Count Symbols\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

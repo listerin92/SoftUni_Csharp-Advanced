@@ -38,7 +38,7 @@ namespace _08._Ranking
         private static void Print(Dictionary<string, Dictionary<string, int>> candidates, int maxSum, string bestCandidate)
         {
             Console.WriteLine($"Best candidate is {bestCandidate} with total {maxSum} points.");
-            Console.WriteLine("Ranking");
+            Console.WriteLine("Ranking:");
             foreach (var candidate in candidates.OrderBy(o => o.Key))
             {
                 string name = candidate.Key;
@@ -48,7 +48,7 @@ namespace _08._Ranking
                 {
                     string course = item.Key;
                     int score = item.Value;
-                    Console.WriteLine($"# {course}->{score}");
+                    Console.WriteLine($"#  {course} -> {score}");
                 }
             }
         }

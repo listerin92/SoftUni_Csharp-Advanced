@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "J:\\OneDrive\\Documents\\SoftUNI\\SoftUni_Csharp-Advanced\\Sets and Dictionaries Advanced - Exercise\\02. Sets of Elements\\02. Sets of Elements.csproj",
+      "projectUniqueName": "J:\\OneDrive\\Documents\\SoftUNI\\SoftUni_Csharp-Advanced2\\Sets and Dictionaries Advanced - Exercise\\02. Sets of Elements\\02. Sets of Elements.csproj",
       "projectName": "02. Sets of Elements",
-      "projectPath": "J:\\OneDrive\\Documents\\SoftUNI\\SoftUni_Csharp-Advanced\\Sets and Dictionaries Advanced - Exercise\\02. Sets of Elements\\02. Sets of Elements.csproj",
+      "projectPath": "J:\\OneDrive\\Documents\\SoftUNI\\SoftUni_Csharp-Advanced2\\Sets and Dictionaries Advanced - Exercise\\02. Sets of Elements\\02. Sets of Elements.csproj",
       "packagesPath": "C:\\Users\\luzte_000\\.nuget\\packages\\",
-      "outputPath": "J:\\OneDrive\\Documents\\SoftUNI\\SoftUni_Csharp-Advanced\\Sets and Dictionaries Advanced - Exercise\\02. Sets of Elements\\obj\\",
+      "outputPath": "J:\\OneDrive\\Documents\\SoftUNI\\SoftUni_Csharp-Advanced2\\Sets and Dictionaries Advanced - Exercise\\02. Sets of Elements\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

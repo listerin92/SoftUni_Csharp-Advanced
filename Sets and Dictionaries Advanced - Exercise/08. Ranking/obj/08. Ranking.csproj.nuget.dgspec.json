@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "J:\\OneDrive\\Documents\\SoftUNI\\SoftUni_Csharp-Advanced\\Sets and Dictionaries Advanced - Exercise\\08. Ranking\\08. Ranking.csproj": {}
+    "J:\\OneDrive\\Documents\\SoftUNI\\SoftUni_Csharp-Advanced2\\Sets and Dictionaries Advanced - Exercise\\08. Ranking\\08. Ranking.csproj": {}
   },
   "projects": {
-    "J:\\OneDrive\\Documents\\SoftUNI\\SoftUni_Csharp-Advanced\\Sets and Dictionaries Advanced - Exercise\\08. Ranking\\08. Ranking.csproj": {
+    "J:\\OneDrive\\Documents\\SoftUNI\\SoftUni_Csharp-Advanced2\\Sets and Dictionaries Advanced - Exercise\\08. Ranking\\08. Ranking.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "J:\\OneDrive\\Documents\\SoftUNI\\SoftUni_Csharp-Advanced\\Sets and Dictionaries Advanced - Exercise\\08. Ranking\\08. Ranking.csproj",
+        "projectUniqueName": "J:\\OneDrive\\Documents\\SoftUNI\\SoftUni_Csharp-Advanced2\\Sets and Dictionaries Advanced - Exercise\\08. Ranking\\08. Ranking.csproj",
         "projectName": "08. Ranking",
-        "projectPath": "J:\\OneDrive\\Documents\\SoftUNI\\SoftUni_Csharp-Advanced\\Sets and Dictionaries Advanced - Exercise\\08. Ranking\\08. Ranking.csproj",
+        "projectPath": "J:\\OneDrive\\Documents\\SoftUNI\\SoftUni_Csharp-Advanced2\\Sets and Dictionaries Advanced - Exercise\\08. Ranking\\08. Ranking.csproj",
         "packagesPath": "C:\\Users\\luzte_000\\.nuget\\packages\\",
-        "outputPath": "J:\\OneDrive\\Documents\\SoftUNI\\SoftUni_Csharp-Advanced\\Sets and Dictionaries Advanced - Exercise\\08. Ranking\\obj\\",
+        "outputPath": "J:\\OneDrive\\Documents\\SoftUNI\\SoftUni_Csharp-Advanced2\\Sets and Dictionaries Advanced - Exercise\\08. Ranking\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

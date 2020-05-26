@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "J:\\OneDrive\\Documents\\SoftUNI\\SoftUni_Csharp-Advanced\\Sets and Dictionaries Advanced - Exercise\\04. Even Times\\04. Even Times.csproj": {}
+    "J:\\OneDrive\\Documents\\SoftUNI\\SoftUni_Csharp-Advanced2\\Sets and Dictionaries Advanced - Exercise\\04. Even Times\\04. Even Times.csproj": {}
   },
   "projects": {
-    "J:\\OneDrive\\Documents\\SoftUNI\\SoftUni_Csharp-Advanced\\Sets and Dictionaries Advanced - Exercise\\04. Even Times\\04. Even Times.csproj": {
+    "J:\\OneDrive\\Documents\\SoftUNI\\SoftUni_Csharp-Advanced2\\Sets and Dictionaries Advanced - Exercise\\04. Even Times\\04. Even Times.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "J:\\OneDrive\\Documents\\SoftUNI\\SoftUni_Csharp-Advanced\\Sets and Dictionaries Advanced - Exercise\\04. Even Times\\04. Even Times.csproj",
+        "projectUniqueName": "J:\\OneDrive\\Documents\\SoftUNI\\SoftUni_Csharp-Advanced2\\Sets and Dictionaries Advanced - Exercise\\04. Even Times\\04. Even Times.csproj",
         "projectName": "04. Even Times",
-        "projectPath": "J:\\OneDrive\\Documents\\SoftUNI\\SoftUni_Csharp-Advanced\\Sets and Dictionaries Advanced - Exercise\\04. Even Times\\04. Even Times.csproj",
+        "projectPath": "J:\\OneDrive\\Documents\\SoftUNI\\SoftUni_Csharp-Advanced2\\Sets and Dictionaries Advanced - Exercise\\04. Even Times\\04. Even Times.csproj",
         "packagesPath": "C:\\Users\\luzte_000\\.nuget\\packages\\",
-        "outputPath": "J:\\OneDrive\\Documents\\SoftUNI\\SoftUni_Csharp-Advanced\\Sets and Dictionaries Advanced - Exercise\\04. Even Times\\obj\\",
+        "outputPath": "J:\\OneDrive\\Documents\\SoftUNI\\SoftUni_Csharp-Advanced2\\Sets and Dictionaries Advanced - Exercise\\04. Even Times\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

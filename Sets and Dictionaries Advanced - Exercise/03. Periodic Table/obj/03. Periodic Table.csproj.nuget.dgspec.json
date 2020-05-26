@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "J:\\OneDrive\\Documents\\SoftUNI\\SoftUni_Csharp-Advanced\\Sets and Dictionaries Advanced - Exercise\\03. Periodic Table\\03. Periodic Table.csproj": {}
+    "J:\\OneDrive\\Documents\\SoftUNI\\SoftUni_Csharp-Advanced2\\Sets and Dictionaries Advanced - Exercise\\03. Periodic Table\\03. Periodic Table.csproj": {}
   },
   "projects": {
-    "J:\\OneDrive\\Documents\\SoftUNI\\SoftUni_Csharp-Advanced\\Sets and Dictionaries Advanced - Exercise\\03. Periodic Table\\03. Periodic Table.csproj": {
+    "J:\\OneDrive\\Documents\\SoftUNI\\SoftUni_Csharp-Advanced2\\Sets and Dictionaries Advanced - Exercise\\03. Periodic Table\\03. Periodic Table.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "J:\\OneDrive\\Documents\\SoftUNI\\SoftUni_Csharp-Advanced\\Sets and Dictionaries Advanced - Exercise\\03. Periodic Table\\03. Periodic Table.csproj",
+        "projectUniqueName": "J:\\OneDrive\\Documents\\SoftUNI\\SoftUni_Csharp-Advanced2\\Sets and Dictionaries Advanced - Exercise\\03. Periodic Table\\03. Periodic Table.csproj",
         "projectName": "03. Periodic Table",
-        "projectPath": "J:\\OneDrive\\Documents\\SoftUNI\\SoftUni_Csharp-Advanced\\Sets and Dictionaries Advanced - Exercise\\03. Periodic Table\\03. Periodic Table.csproj",
+        "projectPath": "J:\\OneDrive\\Documents\\SoftUNI\\SoftUni_Csharp-Advanced2\\Sets and Dictionaries Advanced - Exercise\\03. Periodic Table\\03. Periodic Table.csproj",
         "packagesPath": "C:\\Users\\luzte_000\\.nuget\\packages\\",
-        "outputPath": "J:\\OneDrive\\Documents\\SoftUNI\\SoftUni_Csharp-Advanced\\Sets and Dictionaries Advanced - Exercise\\03. Periodic Table\\obj\\",
+        "outputPath": "J:\\OneDrive\\Documents\\SoftUNI\\SoftUni_Csharp-Advanced2\\Sets and Dictionaries Advanced - Exercise\\03. Periodic Table\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

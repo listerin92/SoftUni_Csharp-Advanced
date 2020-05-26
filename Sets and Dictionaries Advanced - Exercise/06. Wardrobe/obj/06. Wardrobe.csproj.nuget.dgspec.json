@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "J:\\OneDrive\\Documents\\SoftUNI\\SoftUni_Csharp-Advanced\\Sets and Dictionaries Advanced - Exercise\\06. Wardrobe\\06. Wardrobe.csproj": {}
+    "J:\\OneDrive\\Documents\\SoftUNI\\SoftUni_Csharp-Advanced2\\Sets and Dictionaries Advanced - Exercise\\06. Wardrobe\\06. Wardrobe.csproj": {}
   },
   "projects": {
-    "J:\\OneDrive\\Documents\\SoftUNI\\SoftUni_Csharp-Advanced\\Sets and Dictionaries Advanced - Exercise\\06. Wardrobe\\06. Wardrobe.csproj": {
+    "J:\\OneDrive\\Documents\\SoftUNI\\SoftUni_Csharp-Advanced2\\Sets and Dictionaries Advanced - Exercise\\06. Wardrobe\\06. Wardrobe.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "J:\\OneDrive\\Documents\\SoftUNI\\SoftUni_Csharp-Advanced\\Sets and Dictionaries Advanced - Exercise\\06. Wardrobe\\06. Wardrobe.csproj",
+        "projectUniqueName": "J:\\OneDrive\\Documents\\SoftUNI\\SoftUni_Csharp-Advanced2\\Sets and Dictionaries Advanced - Exercise\\06. Wardrobe\\06. Wardrobe.csproj",
         "projectName": "06. Wardrobe",
-        "projectPath": "J:\\OneDrive\\Documents\\SoftUNI\\SoftUni_Csharp-Advanced\\Sets and Dictionaries Advanced - Exercise\\06. Wardrobe\\06. Wardrobe.csproj",
+        "projectPath": "J:\\OneDrive\\Documents\\SoftUNI\\SoftUni_Csharp-Advanced2\\Sets and Dictionaries Advanced - Exercise\\06. Wardrobe\\06. Wardrobe.csproj",
         "packagesPath": "C:\\Users\\luzte_000\\.nuget\\packages\\",
-        "outputPath": "J:\\OneDrive\\Documents\\SoftUNI\\SoftUni_Csharp-Advanced\\Sets and Dictionaries Advanced - Exercise\\06. Wardrobe\\obj\\",
+        "outputPath": "J:\\OneDrive\\Documents\\SoftUNI\\SoftUni_Csharp-Advanced2\\Sets and Dictionaries Advanced - Exercise\\06. Wardrobe\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "J:\\OneDrive\\Documents\\SoftUNI\\SoftUni_Csharp-Advanced\\Sets and Dictionaries Advanced - Exercise\\01. Unique Usernames\\01. Unique Usernames.csproj": {}
+    "J:\\OneDrive\\Documents\\SoftUNI\\SoftUni_Csharp-Advanced2\\Sets and Dictionaries Advanced - Exercise\\01. Unique Usernames\\01. Unique Usernames.csproj": {}
   },
   "projects": {
-    "J:\\OneDrive\\Documents\\SoftUNI\\SoftUni_Csharp-Advanced\\Sets and Dictionaries Advanced - Exercise\\01. Unique Usernames\\01. Unique Usernames.csproj": {
+    "J:\\OneDrive\\Documents\\SoftUNI\\SoftUni_Csharp-Advanced2\\Sets and Dictionaries Advanced - Exercise\\01. Unique Usernames\\01. Unique Usernames.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "J:\\OneDrive\\Documents\\SoftUNI\\SoftUni_Csharp-Advanced\\Sets and Dictionaries Advanced - Exercise\\01. Unique Usernames\\01. Unique Usernames.csproj",
+        "projectUniqueName": "J:\\OneDrive\\Documents\\SoftUNI\\SoftUni_Csharp-Advanced2\\Sets and Dictionaries Advanced - Exercise\\01. Unique Usernames\\01. Unique Usernames.csproj",
         "projectName": "01. Unique Usernames",
-        "projectPath": "J:\\OneDrive\\Documents\\SoftUNI\\SoftUni_Csharp-Advanced\\Sets and Dictionaries Advanced - Exercise\\01. Unique Usernames\\01. Unique Usernames.csproj",
+        "projectPath": "J:\\OneDrive\\Documents\\SoftUNI\\SoftUni_Csharp-Advanced2\\Sets and Dictionaries Advanced - Exercise\\01. Unique Usernames\\01. Unique Usernames.csproj",
         "packagesPath": "C:\\Users\\luzte_000\\.nuget\\packages\\",
-        "outputPath": "J:\\OneDrive\\Documents\\SoftUNI\\SoftUni_Csharp-Advanced\\Sets and Dictionaries Advanced - Exercise\\01. Unique Usernames\\obj\\",
+        "outputPath": "J:\\OneDrive\\Documents\\SoftUNI\\SoftUni_Csharp-Advanced2\\Sets and Dictionaries Advanced - Exercise\\01. Unique Usernames\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
