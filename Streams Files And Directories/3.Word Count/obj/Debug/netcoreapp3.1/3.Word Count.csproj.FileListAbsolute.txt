@@ -1,0 +1,15 @@
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Streams Files And Directories\3.Word Count\bin\Debug\netcoreapp3.1\3.Word Count.exe
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Streams Files And Directories\3.Word Count\bin\Debug\netcoreapp3.1\3.Word Count.deps.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Streams Files And Directories\3.Word Count\bin\Debug\netcoreapp3.1\3.Word Count.runtimeconfig.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Streams Files And Directories\3.Word Count\bin\Debug\netcoreapp3.1\3.Word Count.runtimeconfig.dev.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Streams Files And Directories\3.Word Count\bin\Debug\netcoreapp3.1\3.Word Count.dll
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Streams Files And Directories\3.Word Count\bin\Debug\netcoreapp3.1\3.Word Count.pdb
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Streams Files And Directories\3.Word Count\obj\Debug\netcoreapp3.1\3.Word Count.csprojAssemblyReference.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Streams Files And Directories\3.Word Count\obj\Debug\netcoreapp3.1\3.Word Count.csproj.CoreCompileInputs.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Streams Files And Directories\3.Word Count\obj\Debug\netcoreapp3.1\3.Word Count.AssemblyInfoInputs.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Streams Files And Directories\3.Word Count\obj\Debug\netcoreapp3.1\3.Word Count.AssemblyInfo.cs
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Streams Files And Directories\3.Word Count\obj\Debug\netcoreapp3.1\3.Word Count.dll
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Streams Files And Directories\3.Word Count\obj\Debug\netcoreapp3.1\3.Word Count.pdb
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Streams Files And Directories\3.Word Count\obj\Debug\netcoreapp3.1\3.Word Count.genruntimeconfig.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Streams Files And Directories\3.Word Count\bin\Debug\netcoreapp3.1\Input.txt
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Streams Files And Directories\3.Word Count\bin\Debug\netcoreapp3.1\words.txt

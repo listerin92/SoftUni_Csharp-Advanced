@@ -1,0 +1,13 @@
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Streams Files And Directories\Streams\bin\Debug\netcoreapp3.1\text.txt
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Streams Files And Directories\Streams\bin\Debug\netcoreapp3.1\1_Odd Lines.exe
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Streams Files And Directories\Streams\bin\Debug\netcoreapp3.1\1_Odd Lines.deps.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Streams Files And Directories\Streams\bin\Debug\netcoreapp3.1\1_Odd Lines.runtimeconfig.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Streams Files And Directories\Streams\bin\Debug\netcoreapp3.1\1_Odd Lines.runtimeconfig.dev.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Streams Files And Directories\Streams\bin\Debug\netcoreapp3.1\1_Odd Lines.dll
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Streams Files And Directories\Streams\bin\Debug\netcoreapp3.1\1_Odd Lines.pdb
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Streams Files And Directories\Streams\obj\Debug\netcoreapp3.1\1_Odd Lines.csproj.CoreCompileInputs.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Streams Files And Directories\Streams\obj\Debug\netcoreapp3.1\1_Odd Lines.AssemblyInfoInputs.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Streams Files And Directories\Streams\obj\Debug\netcoreapp3.1\1_Odd Lines.AssemblyInfo.cs
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Streams Files And Directories\Streams\obj\Debug\netcoreapp3.1\1_Odd Lines.dll
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Streams Files And Directories\Streams\obj\Debug\netcoreapp3.1\1_Odd Lines.pdb
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Streams Files And Directories\Streams\obj\Debug\netcoreapp3.1\1_Odd Lines.genruntimeconfig.cache
