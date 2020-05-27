@@ -1,0 +1,13 @@
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Functional Programming - Lab\05. Filter By Age\bin\Debug\netcoreapp3.1\05. Filter By Age.exe
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Functional Programming - Lab\05. Filter By Age\bin\Debug\netcoreapp3.1\05. Filter By Age.deps.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Functional Programming - Lab\05. Filter By Age\bin\Debug\netcoreapp3.1\05. Filter By Age.runtimeconfig.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Functional Programming - Lab\05. Filter By Age\bin\Debug\netcoreapp3.1\05. Filter By Age.runtimeconfig.dev.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Functional Programming - Lab\05. Filter By Age\bin\Debug\netcoreapp3.1\05. Filter By Age.dll
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Functional Programming - Lab\05. Filter By Age\bin\Debug\netcoreapp3.1\05. Filter By Age.pdb
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Functional Programming - Lab\05. Filter By Age\obj\Debug\netcoreapp3.1\05. Filter By Age.csproj.CoreCompileInputs.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Functional Programming - Lab\05. Filter By Age\obj\Debug\netcoreapp3.1\05. Filter By Age.AssemblyInfoInputs.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Functional Programming - Lab\05. Filter By Age\obj\Debug\netcoreapp3.1\05. Filter By Age.AssemblyInfo.cs
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Functional Programming - Lab\05. Filter By Age\obj\Debug\netcoreapp3.1\05. Filter By Age.dll
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Functional Programming - Lab\05. Filter By Age\obj\Debug\netcoreapp3.1\05. Filter By Age.pdb
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Functional Programming - Lab\05. Filter By Age\obj\Debug\netcoreapp3.1\05. Filter By Age.genruntimeconfig.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Functional Programming - Lab\05. Filter By Age\obj\Debug\netcoreapp3.1\05. Filter By Age.csprojAssemblyReference.cache

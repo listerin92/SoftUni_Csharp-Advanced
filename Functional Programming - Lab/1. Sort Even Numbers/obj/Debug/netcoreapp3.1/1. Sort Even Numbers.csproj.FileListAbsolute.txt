@@ -1,0 +1,13 @@
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Functional Programming - Lab\1. Sort Even Numbers\bin\Debug\netcoreapp3.1\1. Sort Even Numbers.exe
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Functional Programming - Lab\1. Sort Even Numbers\bin\Debug\netcoreapp3.1\1. Sort Even Numbers.deps.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Functional Programming - Lab\1. Sort Even Numbers\bin\Debug\netcoreapp3.1\1. Sort Even Numbers.runtimeconfig.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Functional Programming - Lab\1. Sort Even Numbers\bin\Debug\netcoreapp3.1\1. Sort Even Numbers.runtimeconfig.dev.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Functional Programming - Lab\1. Sort Even Numbers\bin\Debug\netcoreapp3.1\1. Sort Even Numbers.dll
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Functional Programming - Lab\1. Sort Even Numbers\bin\Debug\netcoreapp3.1\1. Sort Even Numbers.pdb
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Functional Programming - Lab\1. Sort Even Numbers\obj\Debug\netcoreapp3.1\1. Sort Even Numbers.csprojAssemblyReference.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Functional Programming - Lab\1. Sort Even Numbers\obj\Debug\netcoreapp3.1\1. Sort Even Numbers.csproj.CoreCompileInputs.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Functional Programming - Lab\1. Sort Even Numbers\obj\Debug\netcoreapp3.1\1. Sort Even Numbers.AssemblyInfoInputs.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Functional Programming - Lab\1. Sort Even Numbers\obj\Debug\netcoreapp3.1\1. Sort Even Numbers.AssemblyInfo.cs
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Functional Programming - Lab\1. Sort Even Numbers\obj\Debug\netcoreapp3.1\1. Sort Even Numbers.dll
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Functional Programming - Lab\1. Sort Even Numbers\obj\Debug\netcoreapp3.1\1. Sort Even Numbers.pdb
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Functional Programming - Lab\1. Sort Even Numbers\obj\Debug\netcoreapp3.1\1. Sort Even Numbers.genruntimeconfig.cache

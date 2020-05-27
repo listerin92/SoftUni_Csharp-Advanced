@@ -1,0 +1,13 @@
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Functional Programming - Lab\03. Count Uppercase Words\bin\Debug\netcoreapp3.1\03. Count Uppercase Words.exe
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Functional Programming - Lab\03. Count Uppercase Words\bin\Debug\netcoreapp3.1\03. Count Uppercase Words.deps.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Functional Programming - Lab\03. Count Uppercase Words\bin\Debug\netcoreapp3.1\03. Count Uppercase Words.runtimeconfig.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Functional Programming - Lab\03. Count Uppercase Words\bin\Debug\netcoreapp3.1\03. Count Uppercase Words.runtimeconfig.dev.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Functional Programming - Lab\03. Count Uppercase Words\bin\Debug\netcoreapp3.1\03. Count Uppercase Words.dll
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Functional Programming - Lab\03. Count Uppercase Words\bin\Debug\netcoreapp3.1\03. Count Uppercase Words.pdb
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Functional Programming - Lab\03. Count Uppercase Words\obj\Debug\netcoreapp3.1\03. Count Uppercase Words.csprojAssemblyReference.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Functional Programming - Lab\03. Count Uppercase Words\obj\Debug\netcoreapp3.1\03. Count Uppercase Words.csproj.CoreCompileInputs.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Functional Programming - Lab\03. Count Uppercase Words\obj\Debug\netcoreapp3.1\03. Count Uppercase Words.AssemblyInfoInputs.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Functional Programming - Lab\03. Count Uppercase Words\obj\Debug\netcoreapp3.1\03. Count Uppercase Words.AssemblyInfo.cs
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Functional Programming - Lab\03. Count Uppercase Words\obj\Debug\netcoreapp3.1\03. Count Uppercase Words.dll
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Functional Programming - Lab\03. Count Uppercase Words\obj\Debug\netcoreapp3.1\03. Count Uppercase Words.pdb
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Functional Programming - Lab\03. Count Uppercase Words\obj\Debug\netcoreapp3.1\03. Count Uppercase Words.genruntimeconfig.cache

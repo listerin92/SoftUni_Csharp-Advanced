@@ -1,0 +1,12 @@
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Functional Programming - Lab\04. Add VAT\bin\Debug\netcoreapp3.1\04. Add VAT.exe
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Functional Programming - Lab\04. Add VAT\bin\Debug\netcoreapp3.1\04. Add VAT.deps.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Functional Programming - Lab\04. Add VAT\bin\Debug\netcoreapp3.1\04. Add VAT.runtimeconfig.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Functional Programming - Lab\04. Add VAT\bin\Debug\netcoreapp3.1\04. Add VAT.runtimeconfig.dev.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Functional Programming - Lab\04. Add VAT\bin\Debug\netcoreapp3.1\04. Add VAT.dll
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Functional Programming - Lab\04. Add VAT\bin\Debug\netcoreapp3.1\04. Add VAT.pdb
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Functional Programming - Lab\04. Add VAT\obj\Debug\netcoreapp3.1\04. Add VAT.csproj.CoreCompileInputs.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Functional Programming - Lab\04. Add VAT\obj\Debug\netcoreapp3.1\04. Add VAT.AssemblyInfoInputs.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Functional Programming - Lab\04. Add VAT\obj\Debug\netcoreapp3.1\04. Add VAT.AssemblyInfo.cs
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Functional Programming - Lab\04. Add VAT\obj\Debug\netcoreapp3.1\04. Add VAT.dll
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Functional Programming - Lab\04. Add VAT\obj\Debug\netcoreapp3.1\04. Add VAT.pdb
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Functional Programming - Lab\04. Add VAT\obj\Debug\netcoreapp3.1\04. Add VAT.genruntimeconfig.cache
