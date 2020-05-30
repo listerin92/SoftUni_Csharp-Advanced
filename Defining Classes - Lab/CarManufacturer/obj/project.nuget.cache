@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GofUZTCLdaV1Pr4ctqhgzbp0RI3jEpxmsd67nIiuwEBsyNzHZ39ruRFid6IMaw92E9YwePxF/+VL9Ug5twKUDQ==",
+  "success": true,
+  "projectFilePath": "J:\\OneDrive\\Documents\\SoftUNI\\SoftUni_Csharp-Advanced2\\Defining Classes - Lab\\CarManufacturer\\CarManufacturer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\luzte_000\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
