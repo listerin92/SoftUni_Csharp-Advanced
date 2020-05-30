@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "DWp5Y3nH6yyP4z6Afva4V3HmGsoR6c7oom6PUQvBn8ylzVRWWGWOyZu9fegulF9f1xYH6a98TRJ4CYMGUx/m2g==",
+  "dgSpecHash": "Gh8rxO0+8y7Y/qJdPF2viH54uAWT8aoeJPYjUy2nn5ZqAwoiv2FNP5J+A5dgNJ26gZVSBt4nJfRigoYTCrkrIA==",
   "success": true,
   "projectFilePath": "J:\\OneDrive\\Documents\\SoftUNI\\SoftUni_Csharp-Advanced2\\Functional Programming - Exercise\\09. List Of Predicates\\09. List Of Predicates.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\luzte_000\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "YvkWP8e4dTrg0EsGy+RA4XzvRl+xdyYIOPpSw1igAuN8XkFlIw6XgePcntYGV4PvghfNp7CtU4/jMOEoi7z/LA==",
+  "dgSpecHash": "b9r+NfmMmQflOaW8VGl03BOXTNnoGVFvUAp4bTaqS+mLn5+HrmaFsSWr6HZeIBku3rGLEvxZe+blMAxhb3fMiw==",
   "success": true,
   "projectFilePath": "J:\\OneDrive\\Documents\\SoftUNI\\SoftUni_Csharp-Advanced2\\Functional Programming - Exercise\\06. Reverse And Exclude\\06. Reverse And Exclude.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\luzte_000\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "pkn+OgHIVZ2BxURcWodaGT5+kSPXOXCb8f3pASVD3t11Tp9YKvV4YADbsFpGW0ohTptbGc07Fh1hq7YPTfcspQ==",
+  "dgSpecHash": "tlI4mNXTSMctn9psFFq4QD2l3uZTfMBFYL9mNMGRSE/gHHwt/9b5re61nBYHmUzegjcAInUXAySGiXtF1ZsW5g==",
   "success": true,
   "projectFilePath": "J:\\OneDrive\\Documents\\SoftUNI\\SoftUni_Csharp-Advanced2\\Functional Programming - Exercise\\01. Action Print\\01. Action Print.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\luzte_000\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "k5dOzDu0vY/czdcKup5jwH49Rq1Xxh2OoR80X9wX1r4fiJdpImdzSQ2i6mxeTTe72kGL5lTXyUTjxdrGDdtbFQ==",
+  "dgSpecHash": "v2jhOhoBYD/PdaUriATykMKoxc27pqLPJE8jNkVismm316XKO3eyHEEc01bPa7iJKht4TP2LdoXL8EJ639kZ1A==",
   "success": true,
   "projectFilePath": "J:\\OneDrive\\Documents\\SoftUNI\\SoftUni_Csharp-Advanced2\\Functional Programming - Exercise\\04. Find Evens or Odds\\04. Find Evens or Odds.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\luzte_000\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
   "logs": []
 }

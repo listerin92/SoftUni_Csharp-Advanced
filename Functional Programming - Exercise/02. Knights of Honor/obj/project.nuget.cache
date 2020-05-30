@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "rSXdNkElztpyfKU+2f5PmEbmlwEJg+HqQylwURJDNz1FIzdIX0mRpHzzcaV/56dCUPZzQC8jczVrkAA4IrhK6w==",
+  "dgSpecHash": "w5buT47rDR2R2Ar7hdkVd0o+n0HMvptmV7PrN5PZC16jHR5rTgL2s3Yj1uk80MxzoOUfkKSwaOSj/UoasvjwNQ==",
   "success": true,
   "projectFilePath": "J:\\OneDrive\\Documents\\SoftUNI\\SoftUni_Csharp-Advanced2\\Functional Programming - Exercise\\02. Knights of Honor\\02. Knights of Honor.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\luzte_000\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
   "logs": []
 }

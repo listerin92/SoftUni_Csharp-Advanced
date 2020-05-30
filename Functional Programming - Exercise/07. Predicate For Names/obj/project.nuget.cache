@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "9O1Q+BvYxq0YO8As53UdaU8EIbz2E/d9TfubwJGsM58nyS0vsK05GxgTM29zSFWvz8NZF5VS6/JPMREmA2FrNw==",
+  "dgSpecHash": "sNAnivD2ZrutpPGkrmgPHPZJ9O/ChJTxnSj2Q9D11/acPNefI8Ntfz+pF5M2dBfR6PEH9mkuOjwg+aYoM9Id6Q==",
   "success": true,
   "projectFilePath": "J:\\OneDrive\\Documents\\SoftUNI\\SoftUni_Csharp-Advanced2\\Functional Programming - Exercise\\07. Predicate For Names\\07. Predicate For Names.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\luzte_000\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
   "logs": []
 }

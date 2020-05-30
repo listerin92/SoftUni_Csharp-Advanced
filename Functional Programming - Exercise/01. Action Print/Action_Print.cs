@@ -5,7 +5,7 @@ namespace _01._Action_Print
 {
     class Action_Print
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
             var input = Console.ReadLine()
                 .Split(' ', StringSplitOptions.RemoveEmptyEntries)

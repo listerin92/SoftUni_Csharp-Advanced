@@ -10,3 +10,4 @@ J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Functional Programming - 
 J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Functional Programming - Exercise\01. Action Print\obj\Debug\netcoreapp3.1\01. Action Print.dll
 J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Functional Programming - Exercise\01. Action Print\obj\Debug\netcoreapp3.1\01. Action Print.pdb
 J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Functional Programming - Exercise\01. Action Print\obj\Debug\netcoreapp3.1\01. Action Print.genruntimeconfig.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Functional Programming - Exercise\01. Action Print\obj\Debug\netcoreapp3.1\01. Action Print.csproj.CoreCompileInputs.cache
