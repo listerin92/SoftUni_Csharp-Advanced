@@ -1,14 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.IO;
-using System.Text;
-
-namespace CarManufacturer
+﻿namespace CarManufacturer
 {
     public class Engine
     {
-        private int horsePower;
-        private double cubicCapacity;
+        private int _horsePower;
+        private double _cubicCapacity;
 
         public Engine(int horsePower, double cubicCapacity)
         {
@@ -19,12 +14,11 @@ namespace CarManufacturer
         {
             get
             {
-                return this.horsePower;
+                return this._horsePower;
             }
             set
             {
-             
-                this.horsePower = value;
+                this._horsePower = value;
             }
         }
 
@@ -32,12 +26,11 @@ namespace CarManufacturer
         {
             get
             {
-                return this.cubicCapacity;
+                return this._cubicCapacity;
             }
             set
             {
-           
-                this.cubicCapacity = value;
+                this._cubicCapacity = value;
             }
         }
     }

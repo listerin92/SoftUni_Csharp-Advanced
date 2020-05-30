@@ -6,13 +6,13 @@ namespace CarManufacturer
     public class Car
     {
         
-        private string make;
-        private string model;
-        private int year;
-        private double fuelQuantity;
-        private double fuelConsumption;
-        private Engine engine;
-        private Tire[] tire;
+        private string _make;
+        private string _model;
+        private int _year;
+        private double _fuelQuantity;
+        private double _fuelConsumption;
+        private Engine _engine;
+        private Tire[] _tire;
 
         /// <summary>
         /// Creating a Car
@@ -56,45 +56,45 @@ namespace CarManufacturer
         /// </summary>
         public string Make
         {
-            get { return this.make; }
+            get { return this._make; }
             set
             {
-                //if (value.Length < 2)
-                //{
-                //    throw new ArgumentException("Make should be at least 2 symbol long!");
-                //}
-                this.make = value;
+                if (value.Length < 2)
+                {
+                    throw new ArgumentException("Make should be at least 2 symbol long!");
+                }
+                this._make = value;
             }
         }
         public string Model
         {
-            get { return this.model; }
+            get { return this._model; }
             set
             {
-                //if (value.Length < 1)
-                //{
-                //    throw new ArgumentException("Model should be at least 1 symbol long!");
-                //}
+                if (value.Length < 1)
+                {
+                    throw new ArgumentException("Model should be at least 1 symbol long!");
+                }
 
-                this.model = value;
+                this._model = value;
             }
         }
 
         public int Year
         {
-            get { return this.year; }
+            get { return this._year; }
 
             set
 
             {
                 var nowYear = DateTime.Now.Year + 100;
-                //if (value < 1950 || value > nowYear)
-                //{
-                //    throw new ArgumentException("It should be between 1950 and {nowYear}");
+                if (value < 1950 || value > nowYear)
+                {
+                    throw new ArgumentException("It should be between 1950 and {nowYear}");
 
-                //}
+                }
 
-                this.year = value;
+                this._year = value;
             }
         }
 
@@ -102,7 +102,7 @@ namespace CarManufacturer
         {
             get
             {
-                return this.fuelQuantity;
+                return this._fuelQuantity;
             }
             set
             {
@@ -111,7 +111,7 @@ namespace CarManufacturer
                     throw new ArgumentException("Fuel could not be below 0");
                 }
 
-                this.fuelQuantity = value;
+                this._fuelQuantity = value;
             }
         }
 
