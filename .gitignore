@@ -7,3 +7,9 @@
 /Documents
 /Defining Classes - Lab/CarManufacturer/bin/Debug
 /Defining Classes - Lab/CarManufacturer/obj/Debug
+*.exe
+/Defining Classes - Exercise/DefiningClasses/bin/Debug/netcoreapp3.0
+/Defining Classes - Exercise/DefiningClasses/obj/Debug/netcoreapp3.0
+/Defining Classes - Exercise/DefiningClasses/obj/Debug/netcoreapp3.1
+/Defining Classes - Exercise/DefiningClasses/obj
+/Defining Classes-Exercises-05/DefiningClasses/obj
