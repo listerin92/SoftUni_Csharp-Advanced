@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JCXLARjtaZbdQVn6J8ppmrFqAOnTr9wX/12mkYgcdfx+7ILVWVVEGbYmN0EQR4UiplyeJry2ASdmipugxPr2Qw==",
+  "success": true,
+  "projectFilePath": "J:\\OneDrive\\Documents\\SoftUNI\\SoftUni_Csharp-Advanced2\\Defining Classes - Exercise-06\\DefiningClasses\\DefiningClasses.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\luzte_000\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
