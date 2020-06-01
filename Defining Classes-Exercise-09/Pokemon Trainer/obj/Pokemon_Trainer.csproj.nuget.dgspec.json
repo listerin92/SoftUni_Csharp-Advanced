@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "J:\\OneDrive\\Documents\\SoftUNI\\SoftUni_Csharp-Advanced2\\Defining Classes-Exercise-09\\Pokemon Trainer\\Pokemon Trainer.csproj": {}
+    "J:\\OneDrive\\Documents\\SoftUNI\\SoftUni_Csharp-Advanced2\\Defining Classes-Exercise-09\\Pokemon Trainer\\Pokemon_Trainer.csproj": {}
   },
   "projects": {
-    "J:\\OneDrive\\Documents\\SoftUNI\\SoftUni_Csharp-Advanced2\\Defining Classes-Exercise-09\\Pokemon Trainer\\Pokemon Trainer.csproj": {
+    "J:\\OneDrive\\Documents\\SoftUNI\\SoftUni_Csharp-Advanced2\\Defining Classes-Exercise-09\\Pokemon Trainer\\Pokemon_Trainer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "J:\\OneDrive\\Documents\\SoftUNI\\SoftUni_Csharp-Advanced2\\Defining Classes-Exercise-09\\Pokemon Trainer\\Pokemon Trainer.csproj",
-        "projectName": "Pokemon Trainer",
-        "projectPath": "J:\\OneDrive\\Documents\\SoftUNI\\SoftUni_Csharp-Advanced2\\Defining Classes-Exercise-09\\Pokemon Trainer\\Pokemon Trainer.csproj",
+        "projectUniqueName": "J:\\OneDrive\\Documents\\SoftUNI\\SoftUni_Csharp-Advanced2\\Defining Classes-Exercise-09\\Pokemon Trainer\\Pokemon_Trainer.csproj",
+        "projectName": "Pokemon_Trainer",
+        "projectPath": "J:\\OneDrive\\Documents\\SoftUNI\\SoftUni_Csharp-Advanced2\\Defining Classes-Exercise-09\\Pokemon Trainer\\Pokemon_Trainer.csproj",
         "packagesPath": "C:\\Users\\luzte_000\\.nuget\\packages\\",
         "outputPath": "J:\\OneDrive\\Documents\\SoftUNI\\SoftUni_Csharp-Advanced2\\Defining Classes-Exercise-09\\Pokemon Trainer\\obj\\",
         "projectStyle": "PackageReference",

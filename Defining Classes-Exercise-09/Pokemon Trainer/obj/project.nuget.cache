@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "/i9psOOs/E51LmxJnCl/wnh8hldVPCGInOUSJdflTjVCJ4IaRUho0xcpIs6krN9CpAlUiext+AwWIxFWWwONIw==",
+  "dgSpecHash": "5sW+DB5MRsq+NomzpMB6MWoQ9xXO3HE97TMERANUXNtbLrAjtJKNcsQaAVHmZGow1UKHYeo0/XonHJPhT6wYdQ==",
   "success": true,
-  "projectFilePath": "J:\\OneDrive\\Documents\\SoftUNI\\SoftUni_Csharp-Advanced2\\Defining Classes-Exercise-09\\Pokemon Trainer\\Pokemon Trainer.csproj",
+  "projectFilePath": "J:\\OneDrive\\Documents\\SoftUNI\\SoftUni_Csharp-Advanced2\\Defining Classes-Exercise-09\\Pokemon Trainer\\Pokemon_Trainer.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\luzte_000\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+    "C:\\Users\\luzte_000\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512"
   ],
   "logs": []
 }

@@ -1,0 +1,12 @@
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Defining Classes-Exercise-09\Pokemon Trainer\bin\Debug\netcoreapp3.0\Pokemon_Trainer.exe
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Defining Classes-Exercise-09\Pokemon Trainer\bin\Debug\netcoreapp3.0\Pokemon_Trainer.deps.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Defining Classes-Exercise-09\Pokemon Trainer\bin\Debug\netcoreapp3.0\Pokemon_Trainer.runtimeconfig.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Defining Classes-Exercise-09\Pokemon Trainer\bin\Debug\netcoreapp3.0\Pokemon_Trainer.runtimeconfig.dev.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Defining Classes-Exercise-09\Pokemon Trainer\bin\Debug\netcoreapp3.0\Pokemon_Trainer.dll
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Defining Classes-Exercise-09\Pokemon Trainer\bin\Debug\netcoreapp3.0\Pokemon_Trainer.pdb
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Defining Classes-Exercise-09\Pokemon Trainer\obj\Debug\netcoreapp3.0\Pokemon_Trainer.AssemblyInfoInputs.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Defining Classes-Exercise-09\Pokemon Trainer\obj\Debug\netcoreapp3.0\Pokemon_Trainer.AssemblyInfo.cs
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Defining Classes-Exercise-09\Pokemon Trainer\obj\Debug\netcoreapp3.0\Pokemon_Trainer.csproj.CoreCompileInputs.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Defining Classes-Exercise-09\Pokemon Trainer\obj\Debug\netcoreapp3.0\Pokemon_Trainer.dll
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Defining Classes-Exercise-09\Pokemon Trainer\obj\Debug\netcoreapp3.0\Pokemon_Trainer.pdb
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Defining Classes-Exercise-09\Pokemon Trainer\obj\Debug\netcoreapp3.0\Pokemon_Trainer.genruntimeconfig.cache
