@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "JxjiV+BtmnoyihV+/I74y3PRETFhl9KTk1+nU4twolAFeXHa0ZvsEariyPeARyHD6EpmYFA8o5mciaHaI1KqCg==",
+  "dgSpecHash": "LQsGSf38C86UOnxC6Vo8XKs3NIHoh+10IBBKa4+dT5E+nMbn3cQ1zZwQ/A7VxepWu9e7nYs43PxAf7EES4KHFA==",
   "success": true,
   "projectFilePath": "J:\\OneDrive\\Documents\\SoftUNI\\SoftUni_Csharp-Advanced2\\Sets and Dictionaries Advanced - Exercise\\06. Wardrobe\\06. Wardrobe.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\luzte_000\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
   "logs": []
 }

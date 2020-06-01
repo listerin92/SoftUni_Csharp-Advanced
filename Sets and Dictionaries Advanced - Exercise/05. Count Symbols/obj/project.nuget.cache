@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "7MDTADMOVBHrpB+WseMf/tMrOO4gquxYk5kXzdnNJigA5AtvWaiFTpKMHo31rqYg/B2ytrjA2Q3d2JOQGTbSEA==",
+  "dgSpecHash": "aunpJDkrVcWtz6hjxf4p3hVj/QJvWzQmadmOjszJDJN+gjT4YAqFdweWAgrdEKrTu/KFMn1YyXqVff3yQbb9wQ==",
   "success": true,
   "projectFilePath": "J:\\OneDrive\\Documents\\SoftUNI\\SoftUni_Csharp-Advanced2\\Sets and Dictionaries Advanced - Exercise\\05. Count Symbols\\05. Count Symbols.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\luzte_000\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "ACfuFDdomMiEJpiW6A6TjFMlMwsYZ7sPfxP/d7rDUN/ZxIyH3UpISreMUkSf3kMwpFof9dfT2BdxM8You4fOZQ==",
+  "dgSpecHash": "OvkKYNffrMsHgAeLmUT0j6o7U0nhA8xcATel4Toc2R3yVq6o2sDpNgWcTsG/NHsqrZor+aWDlIcTBAwY73lH0A==",
   "success": true,
   "projectFilePath": "J:\\OneDrive\\Documents\\SoftUNI\\SoftUni_Csharp-Advanced2\\Sets and Dictionaries Advanced - Exercise\\08. Ranking\\08. Ranking.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\luzte_000\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
   "logs": []
 }

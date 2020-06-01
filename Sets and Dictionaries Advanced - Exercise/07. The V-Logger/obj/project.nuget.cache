@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "XW3Zo5trnfm3jO0f0FHkBpRKKil9Y9B0FJ2kMOtHsxhAUX0eVV/1pVv9G5Sz/ngAw0n3PE3QZKneSXKULszu2A==",
+  "dgSpecHash": "7jBe50YnXFLsPUL4z94nJ6H7mrivi7zgkwp3k5WrikjWtP1LzKEoZkd51pvvzI4f8ergy50fLU8mxotv/jURkQ==",
   "success": true,
   "projectFilePath": "J:\\OneDrive\\Documents\\SoftUNI\\SoftUni_Csharp-Advanced2\\Sets and Dictionaries Advanced - Exercise\\07. The V-Logger\\07. The V-Logger.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\luzte_000\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
   "logs": []
 }

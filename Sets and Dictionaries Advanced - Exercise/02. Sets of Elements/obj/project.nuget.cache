@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "NgZ7PZQb9YccD+BI5MBs4le5/UykKx000tfdX9U8qfGfNzxLeVmbGDiuKgRdLBheI2aevOt59FlZDYfHnc8nCg==",
+  "dgSpecHash": "Qi0isGkDZdBKeV7NqsqetNU6nk1XmKfmsO1+9e01NB/hqnu/fZ2gFSa/by8gP1q/gF78W/cVLwO6Z58g3MpYqw==",
   "success": true,
   "projectFilePath": "J:\\OneDrive\\Documents\\SoftUNI\\SoftUni_Csharp-Advanced2\\Sets and Dictionaries Advanced - Exercise\\02. Sets of Elements\\02. Sets of Elements.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\luzte_000\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
   "logs": []
 }

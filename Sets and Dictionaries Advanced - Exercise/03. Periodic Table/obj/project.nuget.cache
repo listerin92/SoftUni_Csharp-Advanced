@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "4Cl7MNVZ4VW07UDKbOCDBrcBOjZzFdYIdnO8rEDHOvlv7ADQDh5IBmqw4+nHj4qAOtXA6d1WkGF+/jk6zhGY/Q==",
+  "dgSpecHash": "MmPVpVtSTkyx5xWeBlHDr89J+xrCd10/Ah9V9CIfBuIMHpNkIV9gQxszLWK6hmBb+ft0ixdx4MP9XtEb+UTzqw==",
   "success": true,
   "projectFilePath": "J:\\OneDrive\\Documents\\SoftUNI\\SoftUni_Csharp-Advanced2\\Sets and Dictionaries Advanced - Exercise\\03. Periodic Table\\03. Periodic Table.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\luzte_000\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
   "logs": []
 }
