@@ -1,0 +1,13 @@
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Defining Classes-Exercise-08\Car_Salesman\bin\Debug\netcoreapp3.1\Car_Salesman.exe
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Defining Classes-Exercise-08\Car_Salesman\bin\Debug\netcoreapp3.1\Car_Salesman.deps.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Defining Classes-Exercise-08\Car_Salesman\bin\Debug\netcoreapp3.1\Car_Salesman.runtimeconfig.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Defining Classes-Exercise-08\Car_Salesman\bin\Debug\netcoreapp3.1\Car_Salesman.runtimeconfig.dev.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Defining Classes-Exercise-08\Car_Salesman\bin\Debug\netcoreapp3.1\Car_Salesman.dll
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Defining Classes-Exercise-08\Car_Salesman\bin\Debug\netcoreapp3.1\Car_Salesman.pdb
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Defining Classes-Exercise-08\Car_Salesman\obj\Debug\netcoreapp3.1\Car_Salesman.csprojAssemblyReference.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Defining Classes-Exercise-08\Car_Salesman\obj\Debug\netcoreapp3.1\Car_Salesman.AssemblyInfoInputs.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Defining Classes-Exercise-08\Car_Salesman\obj\Debug\netcoreapp3.1\Car_Salesman.AssemblyInfo.cs
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Defining Classes-Exercise-08\Car_Salesman\obj\Debug\netcoreapp3.1\Car_Salesman.csproj.CoreCompileInputs.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Defining Classes-Exercise-08\Car_Salesman\obj\Debug\netcoreapp3.1\Car_Salesman.dll
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Defining Classes-Exercise-08\Car_Salesman\obj\Debug\netcoreapp3.1\Car_Salesman.pdb
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Defining Classes-Exercise-08\Car_Salesman\obj\Debug\netcoreapp3.1\Car_Salesman.genruntimeconfig.cache

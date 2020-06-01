@@ -1,0 +1,95 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+namespace Car_Salesman
+{
+    public class StartUp
+    {
+        static void Main(string[] args)
+        {
+            int engineNo = int.Parse(Console.ReadLine());
+            List<Engine> engines = new List<Engine>();
+            InputEngines(engineNo, engines);
+
+            int carNo = int.Parse(Console.ReadLine());
+
+            List<Car> cars = new List<Car>();
+            InputCars(carNo, engines, cars);
+
+            foreach (var car in cars)
+            {
+                Console.WriteLine($"{car.Model}:");
+                Console.WriteLine($"  {car.Engine.Model}:");
+                Console.WriteLine($"    Power: {car.Engine.Power}");
+                Console.WriteLine("    Displacement: {0}", car.Engine.Displacement == 0 ? "n/a" : car.Engine.Displacement.ToString());
+                Console.WriteLine("    Efficiency: {0}", car.Engine.Efficiency == "" ? "n/a" : car.Engine.Efficiency.ToString());
+                Console.WriteLine("  Weight: {0}", car.Weight == 0 ? "n/a" : car.Weight.ToString());
+                Console.WriteLine("  Color: {0}", car.Color == "" ? "n/a" : car.Color.ToString());
+            }
+        }
+
+
+        private static void InputCars(int carNo, List<Engine> engines, List<Car> cars)
+        {
+            for (int i = 0; i < carNo; i++)
+            {
+                var carTokens = Console.ReadLine().Split(' ', StringSplitOptions.RemoveEmptyEntries);
+                var carModel = carTokens[0];
+                var engineModel = carTokens[1];
+                var carEngine = engines.First(x => x.Model == engineModel);
+
+                var carWeight = 0;
+                var carColor = "";
+                if (carTokens.Length == 3) // third token could be weight or color
+                {
+                    bool tryCarWeight = int.TryParse(carTokens[2], out carWeight);
+                    if (!tryCarWeight)
+                    {
+                        carColor = carTokens[2];
+                    }
+                }
+
+                if (carTokens.Length == 4) // when we got 4 tokens they are at the correct order
+                {
+                    carWeight = int.Parse(carTokens[2]);
+                    carColor = carTokens[3];
+                }
+
+                Car car = new Car(carModel, carEngine, carWeight, carColor);
+                cars.Add(car);
+            }
+        }
+
+        private static void InputEngines(int engineNo, List<Engine> engines)
+        {
+            for (int i = 0; i < engineNo; i++)
+            {
+                var engineTokens = Console.ReadLine().Split(' ', StringSplitOptions.RemoveEmptyEntries);
+                var engineModel = engineTokens[0];
+                var enginePower = int.Parse(engineTokens[1]);
+                var engineDisplacement = 0;
+                var engineEfficiency = "";
+
+                if (engineTokens.Length == 3) // third token could be efficiency or displacement
+                {
+                    bool tryEngineDisplacement = int.TryParse(engineTokens[2], out engineDisplacement);
+                    if (!tryEngineDisplacement)
+                    {
+                        engineEfficiency = engineTokens[2];
+                    }
+                }
+
+                if (engineTokens.Length == 4)
+                {
+                    engineDisplacement = int.Parse(engineTokens[2]);
+                    engineEfficiency = engineTokens[3];
+                }
+
+                Engine engine = new Engine(engineModel, enginePower, engineDisplacement, engineEfficiency);
+                engines.Add(engine);
+            }
+        }
+    }
+}

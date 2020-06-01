@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cvr6vaGtqvI5XAVE1NJFOXtKQ+3zBUUowH4L3/TNq49ccH3/lAK7rfJnxTF/wG9092q2qhPKfG++abXbxEoclg==",
+  "success": true,
+  "projectFilePath": "J:\\OneDrive\\Documents\\SoftUNI\\SoftUni_Csharp-Advanced2\\Defining Classes-Exercise-08\\Car_Salesman\\Car_Salesman.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\luzte_000\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
