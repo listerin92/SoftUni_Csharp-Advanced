@@ -1,0 +1,13 @@
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Implementing Linked List\Create_Custom_Data_Structures\bin\Debug\netcoreapp3.1\Create_Custom_Data_Structures.exe
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Implementing Linked List\Create_Custom_Data_Structures\bin\Debug\netcoreapp3.1\Create_Custom_Data_Structures.deps.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Implementing Linked List\Create_Custom_Data_Structures\bin\Debug\netcoreapp3.1\Create_Custom_Data_Structures.runtimeconfig.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Implementing Linked List\Create_Custom_Data_Structures\bin\Debug\netcoreapp3.1\Create_Custom_Data_Structures.runtimeconfig.dev.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Implementing Linked List\Create_Custom_Data_Structures\bin\Debug\netcoreapp3.1\Create_Custom_Data_Structures.dll
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Implementing Linked List\Create_Custom_Data_Structures\bin\Debug\netcoreapp3.1\Create_Custom_Data_Structures.pdb
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Implementing Linked List\Create_Custom_Data_Structures\obj\Debug\netcoreapp3.1\Create_Custom_Data_Structures.csprojAssemblyReference.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Implementing Linked List\Create_Custom_Data_Structures\obj\Debug\netcoreapp3.1\Create_Custom_Data_Structures.AssemblyInfoInputs.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Implementing Linked List\Create_Custom_Data_Structures\obj\Debug\netcoreapp3.1\Create_Custom_Data_Structures.AssemblyInfo.cs
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Implementing Linked List\Create_Custom_Data_Structures\obj\Debug\netcoreapp3.1\Create_Custom_Data_Structures.csproj.CoreCompileInputs.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Implementing Linked List\Create_Custom_Data_Structures\obj\Debug\netcoreapp3.1\Create_Custom_Data_Structures.dll
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Implementing Linked List\Create_Custom_Data_Structures\obj\Debug\netcoreapp3.1\Create_Custom_Data_Structures.pdb
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Implementing Linked List\Create_Custom_Data_Structures\obj\Debug\netcoreapp3.1\Create_Custom_Data_Structures.genruntimeconfig.cache
