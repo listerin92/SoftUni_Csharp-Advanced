@@ -15,8 +15,8 @@ namespace Create_Custom_Data_Structures
             public CoolNode Previous { get; set; }
         }
 
-        private CoolNode head;
-        private CoolNode tail;
+        private CoolNode _head;
+        private CoolNode _tail;
 
         public int Count { get; private set; }
         public object Head
@@ -24,7 +24,7 @@ namespace Create_Custom_Data_Structures
             get
             {
                 this.ValidateIfListIsEmpty();
-                return this.head.Value;
+                return this._head.Value;
             }
         }
         public object Tail
@@ -32,7 +32,7 @@ namespace Create_Custom_Data_Structures
             get
             {
                 this.ValidateIfListIsEmpty();
-                return this.tail.Value;
+                return this._tail.Value;
             }
         }
         public void AddHead(object value)
@@ -40,14 +40,14 @@ namespace Create_Custom_Data_Structures
             var newNode = new CoolNode(value);
             if (this.Count == 0)
             {
-                this.head = this.tail = newNode;
+                this._head = this._tail = newNode;
             }
             else
             {
-                var oldHead = this.head;
+                var oldHead = this._head;
                 oldHead.Previous = newNode;
                 newNode.Next = oldHead;
-                this.head = newNode;
+                this._head = newNode;
             }
 
             this.Count++;
@@ -58,14 +58,14 @@ namespace Create_Custom_Data_Structures
 
             if (this.Count == 0)
             {
-                this.head = this.tail = newNode;
+                this._head = this._tail = newNode;
             }
             else
             {
-                var oldTail = this.tail;
+                var oldTail = this._tail;
                 oldTail.Next = newNode;
                 newNode.Previous = oldTail;
-                this.tail = newNode;
+                this._tail = newNode;
             }
 
             this.Count++;
@@ -73,19 +73,19 @@ namespace Create_Custom_Data_Structures
         public object RemoveHead()
         {
             this.ValidateIfListIsEmpty();
-            var value = this.head.Value;
+            var value = this._head.Value;
 
-            if (this.head == this.tail)
+            if (this._head == this._tail)
             {
-                this.head = null;
-                this.tail = null;
+                this._head = null;
+                this._tail = null;
             }
             else
             {
-                var newHead = this.head.Next;
+                var newHead = this._head.Next;
                 newHead.Previous = null;
-                this.head.Next = null;
-                this.head = newHead;
+                this._head.Next = null;
+                this._head = newHead;
             }
             this.Count--;
             return value;
@@ -93,25 +93,25 @@ namespace Create_Custom_Data_Structures
         public object RemoveTail()
         {
             this.ValidateIfListIsEmpty();
-            var value = this.tail.Value;
-            if (this.head == this.tail)
+            var value = this._tail.Value;
+            if (this._head == this._tail)
             {
-                this.head = null;
-                this.tail = null;
+                this._head = null;
+                this._tail = null;
             }
             else
             {
-                var newTail = this.tail.Previous;
+                var newTail = this._tail.Previous;
                 newTail.Next = null;
-                this.tail.Previous = null;
-                this.tail = newTail;
+                this._tail.Previous = null;
+                this._tail = newTail;
             }
             this.Count--;
             return value;
         }
         public void Remove(object value)
         {
-            var currentNode = this.head;
+            var currentNode = this._head;
 
             while (currentNode != null)
             {
@@ -132,14 +132,14 @@ namespace Create_Custom_Data_Structures
                         nextNode.Previous = prevNode;
                     }
 
-                    if (this.head == currentNode)
+                    if (this._head == currentNode)
                     {
-                        this.head = nextNode;
+                        this._head = nextNode;
                     }
 
-                    if (this.tail == currentNode)
+                    if (this._tail == currentNode)
                     {
-                        this.tail = prevNode;
+                        this._tail = prevNode;
                     }
                 }
                 currentNode = currentNode.Next;
@@ -147,7 +147,7 @@ namespace Create_Custom_Data_Structures
         }
         public bool Contains(object value)
         {
-            var currentNode = this.head;
+            var currentNode = this._head;
             while (currentNode != null)
             {
                 if (currentNode.Value.Equals(value))
@@ -161,13 +161,13 @@ namespace Create_Custom_Data_Structures
         }
         public void Clear()
         {
-            this.head = null;
-            this.tail = null;
+            this._head = null;
+            this._tail = null;
             this.Count = 0;
         }
         public void ForEach(Action<object> action, bool reverse = false)
         {
-            var currentNode = reverse ? this.tail : this.head;
+            var currentNode = reverse ? this._tail : this._head;
             while (currentNode != null)
             {
                 action(currentNode.Value);
@@ -177,7 +177,7 @@ namespace Create_Custom_Data_Structures
         public object[] ToArray()
         {
             var arr = new object[this.Count];
-            var currentNode = this.head;
+            var currentNode = this._head;
             var index = 0;
             while (currentNode != null)
             {
