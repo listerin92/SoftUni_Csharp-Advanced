@@ -1,0 +1,13 @@
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Defining Classes-Exercise-10\SoftUni_Parking\bin\Debug\netcoreapp3.0\SoftUniParking.exe
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Defining Classes-Exercise-10\SoftUni_Parking\bin\Debug\netcoreapp3.0\SoftUniParking.deps.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Defining Classes-Exercise-10\SoftUni_Parking\bin\Debug\netcoreapp3.0\SoftUniParking.runtimeconfig.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Defining Classes-Exercise-10\SoftUni_Parking\bin\Debug\netcoreapp3.0\SoftUniParking.runtimeconfig.dev.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Defining Classes-Exercise-10\SoftUni_Parking\bin\Debug\netcoreapp3.0\SoftUniParking.dll
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Defining Classes-Exercise-10\SoftUni_Parking\bin\Debug\netcoreapp3.0\SoftUniParking.pdb
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Defining Classes-Exercise-10\SoftUni_Parking\obj\Debug\netcoreapp3.0\SoftUniParking.csprojAssemblyReference.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Defining Classes-Exercise-10\SoftUni_Parking\obj\Debug\netcoreapp3.0\SoftUniParking.AssemblyInfoInputs.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Defining Classes-Exercise-10\SoftUni_Parking\obj\Debug\netcoreapp3.0\SoftUniParking.AssemblyInfo.cs
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Defining Classes-Exercise-10\SoftUni_Parking\obj\Debug\netcoreapp3.0\SoftUniParking.csproj.CoreCompileInputs.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Defining Classes-Exercise-10\SoftUni_Parking\obj\Debug\netcoreapp3.0\SoftUniParking.dll
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Defining Classes-Exercise-10\SoftUni_Parking\obj\Debug\netcoreapp3.0\SoftUniParking.pdb
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Defining Classes-Exercise-10\SoftUni_Parking\obj\Debug\netcoreapp3.0\SoftUniParking.genruntimeconfig.cache

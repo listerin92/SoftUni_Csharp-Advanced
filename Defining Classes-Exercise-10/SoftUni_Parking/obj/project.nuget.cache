@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "s4gNyuTdCeUGen7WKx/tNRC/M37z4IKHgA4flymaRRq5pZ3VZ7CcaeHM1b4qsxdm8g8bKFSTas9pLn75TEzniQ==",
+  "dgSpecHash": "BP+8lvx5QLy8plaI8A/3vNHEgAMbFRWUpB0ZMhsji/cqJ9niyno4YW/k0rjNO4VKte6YOuQN03hD10jyntypoQ==",
   "success": true,
   "projectFilePath": "J:\\OneDrive\\Documents\\SoftUNI\\SoftUni_Csharp-Advanced2\\Defining Classes-Exercise-10\\SoftUni_Parking\\SoftUniParking.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\luzte_000\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+    "C:\\Users\\luzte_000\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512"
   ],
   "logs": []
 }

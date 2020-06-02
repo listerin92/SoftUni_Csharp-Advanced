@@ -25,10 +25,7 @@ namespace Pokemon_Trainer
 
         private static void RemoveZeroHealth(List<Trainer> trainers)
         {
-            foreach (var trainer in trainers)
-            {
-                trainer.Pokemons.RemoveAll(x => x.Health <= 0);
-            }
+            trainers.ForEach(x => x.Pokemons.RemoveAll(y => y.Health <= 0));
         }
 
         private static void ProcessHealthAndBadges(string input, List<Trainer> trainers)

@@ -10,3 +10,4 @@ J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Defining Classes-Exercise
 J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Defining Classes-Exercise-09\Pokemon Trainer\obj\Debug\netcoreapp3.0\Pokemon_Trainer.dll
 J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Defining Classes-Exercise-09\Pokemon Trainer\obj\Debug\netcoreapp3.0\Pokemon_Trainer.pdb
 J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Defining Classes-Exercise-09\Pokemon Trainer\obj\Debug\netcoreapp3.0\Pokemon_Trainer.genruntimeconfig.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Defining Classes-Exercise-09\Pokemon Trainer\obj\Debug\netcoreapp3.0\Pokemon_Trainer.csprojAssemblyReference.cache
