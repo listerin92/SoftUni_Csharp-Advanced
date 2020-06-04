@@ -2,15 +2,15 @@
 
 namespace Create_Custom_Data_Structures
 {
-    public class CoolLinkedList
+    public class CoolLinkedList<T>
     {
         private class CoolNode
         {
-            public CoolNode(object value)
+            public CoolNode(T value)
             {
                 this.Value = value;
             }
-            public object Value { get; }
+            public T Value { get; }
             public CoolNode Next { get; set; }
             public CoolNode Previous { get; set; }
         }
@@ -19,7 +19,7 @@ namespace Create_Custom_Data_Structures
         private CoolNode _tail;
 
         public int Count { get; private set; }
-        public object Head
+        public T Head
         {
             get
             {
@@ -27,7 +27,7 @@ namespace Create_Custom_Data_Structures
                 return this._head.Value;
             }
         }
-        public object Tail
+        public T Tail
         {
             get
             {
@@ -35,7 +35,7 @@ namespace Create_Custom_Data_Structures
                 return this._tail.Value;
             }
         }
-        public void AddHead(object value)
+        public void AddHead(T value)
         {
             var newNode = new CoolNode(value);
             if (this.Count == 0)
@@ -52,7 +52,7 @@ namespace Create_Custom_Data_Structures
 
             this.Count++;
         }
-        public void AddTail(object value)
+        public void AddTail(T value)
         {
             var newNode = new CoolNode(value);
 
@@ -70,7 +70,7 @@ namespace Create_Custom_Data_Structures
 
             this.Count++;
         }
-        public object RemoveHead()
+        public T RemoveHead()
         {
             this.ValidateIfListIsEmpty();
             var value = this._head.Value;
@@ -90,7 +90,7 @@ namespace Create_Custom_Data_Structures
             this.Count--;
             return value;
         }
-        public object RemoveTail()
+        public T RemoveTail()
         {
             this.ValidateIfListIsEmpty();
             var value = this._tail.Value;
@@ -109,7 +109,7 @@ namespace Create_Custom_Data_Structures
             this.Count--;
             return value;
         }
-        public void Remove(object value)
+        public void Remove(T value)
         {
             var currentNode = this._head;
 
@@ -145,7 +145,7 @@ namespace Create_Custom_Data_Structures
                 currentNode = currentNode.Next;
             }
         }
-        public bool Contains(object value)
+        public bool Contains(T value)
         {
             var currentNode = this._head;
             while (currentNode != null)
@@ -165,7 +165,7 @@ namespace Create_Custom_Data_Structures
             this._tail = null;
             this.Count = 0;
         }
-        public void ForEach(Action<object> action, bool reverse = false)
+        public void ForEach(Action<T> action, bool reverse = false)
         {
             var currentNode = reverse ? this._tail : this._head;
             while (currentNode != null)
@@ -174,9 +174,9 @@ namespace Create_Custom_Data_Structures
                 currentNode = reverse ? currentNode.Previous : currentNode.Next;
             }
         }
-        public object[] ToArray()
+        public T[] ToArray()
         {
-            var arr = new object[this.Count];
+            var arr = new T[this.Count];
             var currentNode = this._head;
             var index = 0;
             while (currentNode != null)
