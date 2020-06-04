@@ -1,0 +1,13 @@
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Generics-Exercise\03._Generic_Swap_Method_String\bin\Debug\netcoreapp3.1\03._Generic_Swap_Method_String.exe
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Generics-Exercise\03._Generic_Swap_Method_String\bin\Debug\netcoreapp3.1\03._Generic_Swap_Method_String.deps.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Generics-Exercise\03._Generic_Swap_Method_String\bin\Debug\netcoreapp3.1\03._Generic_Swap_Method_String.runtimeconfig.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Generics-Exercise\03._Generic_Swap_Method_String\bin\Debug\netcoreapp3.1\03._Generic_Swap_Method_String.runtimeconfig.dev.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Generics-Exercise\03._Generic_Swap_Method_String\bin\Debug\netcoreapp3.1\03._Generic_Swap_Method_String.dll
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Generics-Exercise\03._Generic_Swap_Method_String\bin\Debug\netcoreapp3.1\03._Generic_Swap_Method_String.pdb
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Generics-Exercise\03._Generic_Swap_Method_String\obj\Debug\netcoreapp3.1\03._Generic_Swap_Method_String.csprojAssemblyReference.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Generics-Exercise\03._Generic_Swap_Method_String\obj\Debug\netcoreapp3.1\03._Generic_Swap_Method_String.AssemblyInfoInputs.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Generics-Exercise\03._Generic_Swap_Method_String\obj\Debug\netcoreapp3.1\03._Generic_Swap_Method_String.AssemblyInfo.cs
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Generics-Exercise\03._Generic_Swap_Method_String\obj\Debug\netcoreapp3.1\03._Generic_Swap_Method_String.csproj.CoreCompileInputs.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Generics-Exercise\03._Generic_Swap_Method_String\obj\Debug\netcoreapp3.1\03._Generic_Swap_Method_String.dll
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Generics-Exercise\03._Generic_Swap_Method_String\obj\Debug\netcoreapp3.1\03._Generic_Swap_Method_String.pdb
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Generics-Exercise\03._Generic_Swap_Method_String\obj\Debug\netcoreapp3.1\03._Generic_Swap_Method_String.genruntimeconfig.cache

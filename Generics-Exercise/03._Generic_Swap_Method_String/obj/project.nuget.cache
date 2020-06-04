@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xdhjgg3VKbjHCXCD8Xr01vj76LzXE1TBxfR4a9K9YHzaeHBOTIa5KQEK0UJnQLO1IpiaxXamvD+eZ+ebBPPnkA==",
+  "success": true,
+  "projectFilePath": "J:\\OneDrive\\Documents\\SoftUNI\\SoftUni_Csharp-Advanced2\\Generics-Exercise\\03._Generic_Swap_Method_String\\03._Generic_Swap_Method_String.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\luzte_000\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

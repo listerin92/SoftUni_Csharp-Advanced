@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "B+5lQ1iqFeIXFvQECkzQHCgHDDLUN8KJavzvmdZ+4vS/db0r83tukLxIC4QBKKNSpZ98ymz5m+wgoBFSw5l+Cw==",
+  "success": true,
+  "projectFilePath": "J:\\OneDrive\\Documents\\SoftUNI\\SoftUni_Csharp-Advanced2\\Generics-Exercise\\01_Generic Box of String\\01_Generic_Box_of_String.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\luzte_000\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

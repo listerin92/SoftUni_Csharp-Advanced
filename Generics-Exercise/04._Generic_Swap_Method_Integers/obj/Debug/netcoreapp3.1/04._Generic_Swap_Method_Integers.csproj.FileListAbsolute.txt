@@ -1,0 +1,12 @@
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Generics-Exercise\04._Generic_Swap_Method_Integers\bin\Debug\netcoreapp3.1\04._Generic_Swap_Method_Integers.exe
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Generics-Exercise\04._Generic_Swap_Method_Integers\bin\Debug\netcoreapp3.1\04._Generic_Swap_Method_Integers.deps.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Generics-Exercise\04._Generic_Swap_Method_Integers\bin\Debug\netcoreapp3.1\04._Generic_Swap_Method_Integers.runtimeconfig.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Generics-Exercise\04._Generic_Swap_Method_Integers\bin\Debug\netcoreapp3.1\04._Generic_Swap_Method_Integers.runtimeconfig.dev.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Generics-Exercise\04._Generic_Swap_Method_Integers\bin\Debug\netcoreapp3.1\04._Generic_Swap_Method_Integers.dll
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Generics-Exercise\04._Generic_Swap_Method_Integers\bin\Debug\netcoreapp3.1\04._Generic_Swap_Method_Integers.pdb
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Generics-Exercise\04._Generic_Swap_Method_Integers\obj\Debug\netcoreapp3.1\04._Generic_Swap_Method_Integers.AssemblyInfoInputs.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Generics-Exercise\04._Generic_Swap_Method_Integers\obj\Debug\netcoreapp3.1\04._Generic_Swap_Method_Integers.AssemblyInfo.cs
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Generics-Exercise\04._Generic_Swap_Method_Integers\obj\Debug\netcoreapp3.1\04._Generic_Swap_Method_Integers.csproj.CoreCompileInputs.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Generics-Exercise\04._Generic_Swap_Method_Integers\obj\Debug\netcoreapp3.1\04._Generic_Swap_Method_Integers.dll
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Generics-Exercise\04._Generic_Swap_Method_Integers\obj\Debug\netcoreapp3.1\04._Generic_Swap_Method_Integers.pdb
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Generics-Exercise\04._Generic_Swap_Method_Integers\obj\Debug\netcoreapp3.1\04._Generic_Swap_Method_Integers.genruntimeconfig.cache

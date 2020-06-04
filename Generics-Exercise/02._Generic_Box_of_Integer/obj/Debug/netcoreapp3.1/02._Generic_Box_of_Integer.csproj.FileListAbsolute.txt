@@ -1,0 +1,13 @@
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Generics-Exercise\02._Generic_Box_of_Integer\bin\Debug\netcoreapp3.1\02._Generic_Box_of_Integer.exe
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Generics-Exercise\02._Generic_Box_of_Integer\bin\Debug\netcoreapp3.1\02._Generic_Box_of_Integer.deps.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Generics-Exercise\02._Generic_Box_of_Integer\bin\Debug\netcoreapp3.1\02._Generic_Box_of_Integer.runtimeconfig.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Generics-Exercise\02._Generic_Box_of_Integer\bin\Debug\netcoreapp3.1\02._Generic_Box_of_Integer.runtimeconfig.dev.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Generics-Exercise\02._Generic_Box_of_Integer\bin\Debug\netcoreapp3.1\02._Generic_Box_of_Integer.dll
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Generics-Exercise\02._Generic_Box_of_Integer\bin\Debug\netcoreapp3.1\02._Generic_Box_of_Integer.pdb
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Generics-Exercise\02._Generic_Box_of_Integer\obj\Debug\netcoreapp3.1\02._Generic_Box_of_Integer.csprojAssemblyReference.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Generics-Exercise\02._Generic_Box_of_Integer\obj\Debug\netcoreapp3.1\02._Generic_Box_of_Integer.AssemblyInfoInputs.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Generics-Exercise\02._Generic_Box_of_Integer\obj\Debug\netcoreapp3.1\02._Generic_Box_of_Integer.AssemblyInfo.cs
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Generics-Exercise\02._Generic_Box_of_Integer\obj\Debug\netcoreapp3.1\02._Generic_Box_of_Integer.csproj.CoreCompileInputs.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Generics-Exercise\02._Generic_Box_of_Integer\obj\Debug\netcoreapp3.1\02._Generic_Box_of_Integer.dll
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Generics-Exercise\02._Generic_Box_of_Integer\obj\Debug\netcoreapp3.1\02._Generic_Box_of_Integer.pdb
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Generics-Exercise\02._Generic_Box_of_Integer\obj\Debug\netcoreapp3.1\02._Generic_Box_of_Integer.genruntimeconfig.cache

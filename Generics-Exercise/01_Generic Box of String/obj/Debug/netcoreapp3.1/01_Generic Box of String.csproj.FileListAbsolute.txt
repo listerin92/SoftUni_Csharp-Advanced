@@ -1,0 +1,13 @@
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Generics-Exercise\01_Generic Box of String\bin\Debug\netcoreapp3.1\01_Generic Box of String.exe
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Generics-Exercise\01_Generic Box of String\bin\Debug\netcoreapp3.1\01_Generic Box of String.deps.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Generics-Exercise\01_Generic Box of String\bin\Debug\netcoreapp3.1\01_Generic Box of String.runtimeconfig.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Generics-Exercise\01_Generic Box of String\bin\Debug\netcoreapp3.1\01_Generic Box of String.runtimeconfig.dev.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Generics-Exercise\01_Generic Box of String\bin\Debug\netcoreapp3.1\01_Generic Box of String.dll
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Generics-Exercise\01_Generic Box of String\bin\Debug\netcoreapp3.1\01_Generic Box of String.pdb
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Generics-Exercise\01_Generic Box of String\obj\Debug\netcoreapp3.1\01_Generic Box of String.csprojAssemblyReference.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Generics-Exercise\01_Generic Box of String\obj\Debug\netcoreapp3.1\01_Generic Box of String.AssemblyInfoInputs.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Generics-Exercise\01_Generic Box of String\obj\Debug\netcoreapp3.1\01_Generic Box of String.AssemblyInfo.cs
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Generics-Exercise\01_Generic Box of String\obj\Debug\netcoreapp3.1\01_Generic Box of String.csproj.CoreCompileInputs.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Generics-Exercise\01_Generic Box of String\obj\Debug\netcoreapp3.1\01_Generic Box of String.dll
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Generics-Exercise\01_Generic Box of String\obj\Debug\netcoreapp3.1\01_Generic Box of String.pdb
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Generics-Exercise\01_Generic Box of String\obj\Debug\netcoreapp3.1\01_Generic Box of String.genruntimeconfig.cache
