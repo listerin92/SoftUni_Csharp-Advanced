@@ -1,0 +1,13 @@
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Generics-Exercise\07._Tuple\bin\Debug\netcoreapp3.1\07._Tuple.exe
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Generics-Exercise\07._Tuple\bin\Debug\netcoreapp3.1\07._Tuple.deps.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Generics-Exercise\07._Tuple\bin\Debug\netcoreapp3.1\07._Tuple.runtimeconfig.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Generics-Exercise\07._Tuple\bin\Debug\netcoreapp3.1\07._Tuple.runtimeconfig.dev.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Generics-Exercise\07._Tuple\bin\Debug\netcoreapp3.1\07._Tuple.dll
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Generics-Exercise\07._Tuple\bin\Debug\netcoreapp3.1\07._Tuple.pdb
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Generics-Exercise\07._Tuple\obj\Debug\netcoreapp3.1\07._Tuple.csprojAssemblyReference.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Generics-Exercise\07._Tuple\obj\Debug\netcoreapp3.1\07._Tuple.AssemblyInfoInputs.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Generics-Exercise\07._Tuple\obj\Debug\netcoreapp3.1\07._Tuple.AssemblyInfo.cs
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Generics-Exercise\07._Tuple\obj\Debug\netcoreapp3.1\07._Tuple.csproj.CoreCompileInputs.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Generics-Exercise\07._Tuple\obj\Debug\netcoreapp3.1\07._Tuple.dll
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Generics-Exercise\07._Tuple\obj\Debug\netcoreapp3.1\07._Tuple.pdb
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Generics-Exercise\07._Tuple\obj\Debug\netcoreapp3.1\07._Tuple.genruntimeconfig.cache

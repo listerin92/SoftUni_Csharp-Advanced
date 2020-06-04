@@ -1,0 +1,12 @@
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Generics-Exercise\06._Generic_Count_Method_Double\bin\Debug\netcoreapp3.1\06._Generic_Count_Method_Double.exe
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Generics-Exercise\06._Generic_Count_Method_Double\bin\Debug\netcoreapp3.1\06._Generic_Count_Method_Double.deps.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Generics-Exercise\06._Generic_Count_Method_Double\bin\Debug\netcoreapp3.1\06._Generic_Count_Method_Double.runtimeconfig.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Generics-Exercise\06._Generic_Count_Method_Double\bin\Debug\netcoreapp3.1\06._Generic_Count_Method_Double.runtimeconfig.dev.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Generics-Exercise\06._Generic_Count_Method_Double\bin\Debug\netcoreapp3.1\06._Generic_Count_Method_Double.dll
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Generics-Exercise\06._Generic_Count_Method_Double\bin\Debug\netcoreapp3.1\06._Generic_Count_Method_Double.pdb
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Generics-Exercise\06._Generic_Count_Method_Double\obj\Debug\netcoreapp3.1\06._Generic_Count_Method_Double.AssemblyInfoInputs.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Generics-Exercise\06._Generic_Count_Method_Double\obj\Debug\netcoreapp3.1\06._Generic_Count_Method_Double.AssemblyInfo.cs
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Generics-Exercise\06._Generic_Count_Method_Double\obj\Debug\netcoreapp3.1\06._Generic_Count_Method_Double.csproj.CoreCompileInputs.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Generics-Exercise\06._Generic_Count_Method_Double\obj\Debug\netcoreapp3.1\06._Generic_Count_Method_Double.dll
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Generics-Exercise\06._Generic_Count_Method_Double\obj\Debug\netcoreapp3.1\06._Generic_Count_Method_Double.pdb
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Generics-Exercise\06._Generic_Count_Method_Double\obj\Debug\netcoreapp3.1\06._Generic_Count_Method_Double.genruntimeconfig.cache

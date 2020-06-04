@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cz9V/zQIWk/lqv/0+f4jtJ8PNY8IatqgaBmh/q4bt81tVoRBoXJF1U4kLy+2Axr5UpfsMKjcTyZGAX4JM4M8yQ==",
+  "success": true,
+  "projectFilePath": "J:\\OneDrive\\Documents\\SoftUNI\\SoftUni_Csharp-Advanced2\\Generics-Exercise\\05._Generic_Count_Method_String\\05._Generic_Count_Method_String.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\luzte_000\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Generics-Exercise\08._Threeuple\bin\Debug\netcoreapp3.1\08._Threeuple.exe
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Generics-Exercise\08._Threeuple\bin\Debug\netcoreapp3.1\08._Threeuple.deps.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Generics-Exercise\08._Threeuple\bin\Debug\netcoreapp3.1\08._Threeuple.runtimeconfig.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Generics-Exercise\08._Threeuple\bin\Debug\netcoreapp3.1\08._Threeuple.runtimeconfig.dev.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Generics-Exercise\08._Threeuple\bin\Debug\netcoreapp3.1\08._Threeuple.dll
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Generics-Exercise\08._Threeuple\bin\Debug\netcoreapp3.1\08._Threeuple.pdb
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Generics-Exercise\08._Threeuple\obj\Debug\netcoreapp3.1\08._Threeuple.csprojAssemblyReference.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Generics-Exercise\08._Threeuple\obj\Debug\netcoreapp3.1\08._Threeuple.AssemblyInfoInputs.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Generics-Exercise\08._Threeuple\obj\Debug\netcoreapp3.1\08._Threeuple.AssemblyInfo.cs
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Generics-Exercise\08._Threeuple\obj\Debug\netcoreapp3.1\08._Threeuple.csproj.CoreCompileInputs.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Generics-Exercise\08._Threeuple\obj\Debug\netcoreapp3.1\08._Threeuple.dll
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Generics-Exercise\08._Threeuple\obj\Debug\netcoreapp3.1\08._Threeuple.pdb
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Generics-Exercise\08._Threeuple\obj\Debug\netcoreapp3.1\08._Threeuple.genruntimeconfig.cache
