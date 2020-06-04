@@ -18,7 +18,7 @@ namespace Create_Custom_Data_Structures
             //stack.ForEach(x => Console.WriteLine(x));
 
 
-            var linkedList = new CoolLinkedList<int>();
+            var linkedList = new LinkedList<int>();
 
             linkedList.AddHead(5);
             linkedList.AddHead(10);
@@ -57,7 +57,7 @@ namespace Create_Custom_Data_Structures
                 Console.WriteLine(true);
             }
 
-            linkedList = new CoolLinkedList<int>();
+            linkedList = new LinkedList<int>();
             linkedList.AddTail(5);
             linkedList.AddTail(10);
             linkedList.AddTail(5);

@@ -2,7 +2,7 @@
 
 namespace Create_Custom_Data_Structures
 {
-    public class CoolLinkedList<T>
+    public class LinkedList<T>
     {
         private class CoolNode
         {
