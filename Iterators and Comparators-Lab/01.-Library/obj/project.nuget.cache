@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7b4UFf2Bl7SkTZ2hWjeNgdANPF/3JfOwFCcQTfRiMwm3B6gJUSVUTEUQCUwsB7dHildqDFe9nkhe1vWIO24c3g==",
+  "success": true,
+  "projectFilePath": "J:\\OneDrive\\Documents\\SoftUNI\\SoftUni_Csharp-Advanced2\\Iterators and Comparators-Lab\\01.-Library\\Test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\luzte_000\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Iterators and Comparators-Lab\Library\bin\Debug\netcoreapp3.1\IteratorsAndComparators.exe
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Iterators and Comparators-Lab\Library\bin\Debug\netcoreapp3.1\IteratorsAndComparators.deps.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Iterators and Comparators-Lab\Library\bin\Debug\netcoreapp3.1\IteratorsAndComparators.runtimeconfig.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Iterators and Comparators-Lab\Library\bin\Debug\netcoreapp3.1\IteratorsAndComparators.runtimeconfig.dev.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Iterators and Comparators-Lab\Library\bin\Debug\netcoreapp3.1\IteratorsAndComparators.dll
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Iterators and Comparators-Lab\Library\bin\Debug\netcoreapp3.1\IteratorsAndComparators.pdb
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Iterators and Comparators-Lab\Library\obj\Debug\netcoreapp3.1\IteratorsAndComparators.AssemblyInfoInputs.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Iterators and Comparators-Lab\Library\obj\Debug\netcoreapp3.1\IteratorsAndComparators.AssemblyInfo.cs
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Iterators and Comparators-Lab\Library\obj\Debug\netcoreapp3.1\IteratorsAndComparators.csproj.CoreCompileInputs.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Iterators and Comparators-Lab\Library\obj\Debug\netcoreapp3.1\IteratorsAndComparators.dll
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Iterators and Comparators-Lab\Library\obj\Debug\netcoreapp3.1\IteratorsAndComparators.pdb
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Iterators and Comparators-Lab\Library\obj\Debug\netcoreapp3.1\IteratorsAndComparators.genruntimeconfig.cache

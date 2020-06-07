@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HVtaTheq0Jj+t7r/lAfcbIcSaFMeZzuRrKAO+DNXFsVND9N3ixpOvA0ZvMF0bXwQmDLlhGzT7aGS3wQSl+KFlA==",
+  "success": true,
+  "projectFilePath": "J:\\OneDrive\\Documents\\SoftUNI\\SoftUni_Csharp-Advanced2\\Iterators and Comparators-Exercise\\01.ListyIterator\\01.ListyIterator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\luzte_000\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
