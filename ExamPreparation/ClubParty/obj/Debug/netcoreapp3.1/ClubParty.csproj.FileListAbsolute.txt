@@ -1,0 +1,13 @@
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\ExamPreparation\ClubParty\bin\Debug\netcoreapp3.1\ClubParty.exe
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\ExamPreparation\ClubParty\bin\Debug\netcoreapp3.1\ClubParty.deps.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\ExamPreparation\ClubParty\bin\Debug\netcoreapp3.1\ClubParty.runtimeconfig.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\ExamPreparation\ClubParty\bin\Debug\netcoreapp3.1\ClubParty.runtimeconfig.dev.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\ExamPreparation\ClubParty\bin\Debug\netcoreapp3.1\ClubParty.dll
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\ExamPreparation\ClubParty\bin\Debug\netcoreapp3.1\ClubParty.pdb
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\ExamPreparation\ClubParty\obj\Debug\netcoreapp3.1\ClubParty.csprojAssemblyReference.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\ExamPreparation\ClubParty\obj\Debug\netcoreapp3.1\ClubParty.AssemblyInfoInputs.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\ExamPreparation\ClubParty\obj\Debug\netcoreapp3.1\ClubParty.AssemblyInfo.cs
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\ExamPreparation\ClubParty\obj\Debug\netcoreapp3.1\ClubParty.csproj.CoreCompileInputs.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\ExamPreparation\ClubParty\obj\Debug\netcoreapp3.1\ClubParty.dll
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\ExamPreparation\ClubParty\obj\Debug\netcoreapp3.1\ClubParty.pdb
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\ExamPreparation\ClubParty\obj\Debug\netcoreapp3.1\ClubParty.genruntimeconfig.cache
