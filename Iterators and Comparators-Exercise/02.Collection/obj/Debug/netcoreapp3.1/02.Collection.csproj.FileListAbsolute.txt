@@ -1,0 +1,13 @@
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Iterators and Comparators-Exercise\02.Collection\bin\Debug\netcoreapp3.1\02.Collection.exe
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Iterators and Comparators-Exercise\02.Collection\bin\Debug\netcoreapp3.1\02.Collection.deps.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Iterators and Comparators-Exercise\02.Collection\bin\Debug\netcoreapp3.1\02.Collection.runtimeconfig.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Iterators and Comparators-Exercise\02.Collection\bin\Debug\netcoreapp3.1\02.Collection.runtimeconfig.dev.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Iterators and Comparators-Exercise\02.Collection\bin\Debug\netcoreapp3.1\02.Collection.dll
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Iterators and Comparators-Exercise\02.Collection\bin\Debug\netcoreapp3.1\02.Collection.pdb
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Iterators and Comparators-Exercise\02.Collection\obj\Debug\netcoreapp3.1\02.Collection.csprojAssemblyReference.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Iterators and Comparators-Exercise\02.Collection\obj\Debug\netcoreapp3.1\02.Collection.AssemblyInfoInputs.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Iterators and Comparators-Exercise\02.Collection\obj\Debug\netcoreapp3.1\02.Collection.AssemblyInfo.cs
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Iterators and Comparators-Exercise\02.Collection\obj\Debug\netcoreapp3.1\02.Collection.csproj.CoreCompileInputs.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Iterators and Comparators-Exercise\02.Collection\obj\Debug\netcoreapp3.1\02.Collection.dll
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Iterators and Comparators-Exercise\02.Collection\obj\Debug\netcoreapp3.1\02.Collection.pdb
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Iterators and Comparators-Exercise\02.Collection\obj\Debug\netcoreapp3.1\02.Collection.genruntimeconfig.cache

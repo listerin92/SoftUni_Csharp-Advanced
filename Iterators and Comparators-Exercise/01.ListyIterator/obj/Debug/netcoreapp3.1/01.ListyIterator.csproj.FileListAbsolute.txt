@@ -1,0 +1,13 @@
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Iterators and Comparators-Exercise\01.ListyIterator\bin\Debug\netcoreapp3.1\01.ListyIterator.exe
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Iterators and Comparators-Exercise\01.ListyIterator\bin\Debug\netcoreapp3.1\01.ListyIterator.deps.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Iterators and Comparators-Exercise\01.ListyIterator\bin\Debug\netcoreapp3.1\01.ListyIterator.runtimeconfig.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Iterators and Comparators-Exercise\01.ListyIterator\bin\Debug\netcoreapp3.1\01.ListyIterator.runtimeconfig.dev.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Iterators and Comparators-Exercise\01.ListyIterator\bin\Debug\netcoreapp3.1\01.ListyIterator.dll
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Iterators and Comparators-Exercise\01.ListyIterator\bin\Debug\netcoreapp3.1\01.ListyIterator.pdb
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Iterators and Comparators-Exercise\01.ListyIterator\obj\Debug\netcoreapp3.1\01.ListyIterator.csprojAssemblyReference.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Iterators and Comparators-Exercise\01.ListyIterator\obj\Debug\netcoreapp3.1\01.ListyIterator.AssemblyInfoInputs.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Iterators and Comparators-Exercise\01.ListyIterator\obj\Debug\netcoreapp3.1\01.ListyIterator.AssemblyInfo.cs
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Iterators and Comparators-Exercise\01.ListyIterator\obj\Debug\netcoreapp3.1\01.ListyIterator.csproj.CoreCompileInputs.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Iterators and Comparators-Exercise\01.ListyIterator\obj\Debug\netcoreapp3.1\01.ListyIterator.dll
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Iterators and Comparators-Exercise\01.ListyIterator\obj\Debug\netcoreapp3.1\01.ListyIterator.pdb
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Iterators and Comparators-Exercise\01.ListyIterator\obj\Debug\netcoreapp3.1\01.ListyIterator.genruntimeconfig.cache

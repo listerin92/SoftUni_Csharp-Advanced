@@ -1,0 +1,12 @@
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Iterators and Comparators-Exercise\EqualityLogic\bin\Debug\netcoreapp3.1\EqualityLogic.exe
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Iterators and Comparators-Exercise\EqualityLogic\bin\Debug\netcoreapp3.1\EqualityLogic.deps.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Iterators and Comparators-Exercise\EqualityLogic\bin\Debug\netcoreapp3.1\EqualityLogic.runtimeconfig.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Iterators and Comparators-Exercise\EqualityLogic\bin\Debug\netcoreapp3.1\EqualityLogic.runtimeconfig.dev.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Iterators and Comparators-Exercise\EqualityLogic\bin\Debug\netcoreapp3.1\EqualityLogic.dll
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Iterators and Comparators-Exercise\EqualityLogic\bin\Debug\netcoreapp3.1\EqualityLogic.pdb
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Iterators and Comparators-Exercise\EqualityLogic\obj\Debug\netcoreapp3.1\EqualityLogic.AssemblyInfoInputs.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Iterators and Comparators-Exercise\EqualityLogic\obj\Debug\netcoreapp3.1\EqualityLogic.AssemblyInfo.cs
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Iterators and Comparators-Exercise\EqualityLogic\obj\Debug\netcoreapp3.1\EqualityLogic.csproj.CoreCompileInputs.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Iterators and Comparators-Exercise\EqualityLogic\obj\Debug\netcoreapp3.1\EqualityLogic.dll
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Iterators and Comparators-Exercise\EqualityLogic\obj\Debug\netcoreapp3.1\EqualityLogic.pdb
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Iterators and Comparators-Exercise\EqualityLogic\obj\Debug\netcoreapp3.1\EqualityLogic.genruntimeconfig.cache

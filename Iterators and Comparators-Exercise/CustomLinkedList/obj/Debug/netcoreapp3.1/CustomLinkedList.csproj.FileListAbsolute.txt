@@ -1,0 +1,12 @@
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Iterators and Comparators-Exercise\CustomLinkedList\bin\Debug\netcoreapp3.1\CustomLinkedList.exe
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Iterators and Comparators-Exercise\CustomLinkedList\bin\Debug\netcoreapp3.1\CustomLinkedList.deps.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Iterators and Comparators-Exercise\CustomLinkedList\bin\Debug\netcoreapp3.1\CustomLinkedList.runtimeconfig.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Iterators and Comparators-Exercise\CustomLinkedList\bin\Debug\netcoreapp3.1\CustomLinkedList.runtimeconfig.dev.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Iterators and Comparators-Exercise\CustomLinkedList\bin\Debug\netcoreapp3.1\CustomLinkedList.dll
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Iterators and Comparators-Exercise\CustomLinkedList\bin\Debug\netcoreapp3.1\CustomLinkedList.pdb
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Iterators and Comparators-Exercise\CustomLinkedList\obj\Debug\netcoreapp3.1\CustomLinkedList.AssemblyInfoInputs.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Iterators and Comparators-Exercise\CustomLinkedList\obj\Debug\netcoreapp3.1\CustomLinkedList.AssemblyInfo.cs
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Iterators and Comparators-Exercise\CustomLinkedList\obj\Debug\netcoreapp3.1\CustomLinkedList.csproj.CoreCompileInputs.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Iterators and Comparators-Exercise\CustomLinkedList\obj\Debug\netcoreapp3.1\CustomLinkedList.dll
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Iterators and Comparators-Exercise\CustomLinkedList\obj\Debug\netcoreapp3.1\CustomLinkedList.pdb
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Iterators and Comparators-Exercise\CustomLinkedList\obj\Debug\netcoreapp3.1\CustomLinkedList.genruntimeconfig.cache

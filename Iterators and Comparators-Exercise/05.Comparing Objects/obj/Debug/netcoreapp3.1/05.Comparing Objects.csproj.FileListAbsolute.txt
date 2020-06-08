@@ -1,0 +1,13 @@
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Iterators and Comparators-Exercise\05.Comparing Objects\bin\Debug\netcoreapp3.1\05.Comparing Objects.exe
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Iterators and Comparators-Exercise\05.Comparing Objects\bin\Debug\netcoreapp3.1\05.Comparing Objects.deps.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Iterators and Comparators-Exercise\05.Comparing Objects\bin\Debug\netcoreapp3.1\05.Comparing Objects.runtimeconfig.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Iterators and Comparators-Exercise\05.Comparing Objects\bin\Debug\netcoreapp3.1\05.Comparing Objects.runtimeconfig.dev.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Iterators and Comparators-Exercise\05.Comparing Objects\bin\Debug\netcoreapp3.1\05.Comparing Objects.dll
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Iterators and Comparators-Exercise\05.Comparing Objects\bin\Debug\netcoreapp3.1\05.Comparing Objects.pdb
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Iterators and Comparators-Exercise\05.Comparing Objects\obj\Debug\netcoreapp3.1\05.Comparing Objects.csprojAssemblyReference.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Iterators and Comparators-Exercise\05.Comparing Objects\obj\Debug\netcoreapp3.1\05.Comparing Objects.AssemblyInfoInputs.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Iterators and Comparators-Exercise\05.Comparing Objects\obj\Debug\netcoreapp3.1\05.Comparing Objects.AssemblyInfo.cs
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Iterators and Comparators-Exercise\05.Comparing Objects\obj\Debug\netcoreapp3.1\05.Comparing Objects.csproj.CoreCompileInputs.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Iterators and Comparators-Exercise\05.Comparing Objects\obj\Debug\netcoreapp3.1\05.Comparing Objects.dll
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Iterators and Comparators-Exercise\05.Comparing Objects\obj\Debug\netcoreapp3.1\05.Comparing Objects.pdb
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Iterators and Comparators-Exercise\05.Comparing Objects\obj\Debug\netcoreapp3.1\05.Comparing Objects.genruntimeconfig.cache

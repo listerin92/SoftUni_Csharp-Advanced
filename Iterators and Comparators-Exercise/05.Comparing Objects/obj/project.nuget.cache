@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lbPSxwlqCjVH6zEshKjRlvFCPwYAqDuqDw2dU2jZ4MgNUArk3MYeQZh3+6MgJXNwfpPVP75JlgaWvH9dRBWQeQ==",
+  "success": true,
+  "projectFilePath": "J:\\OneDrive\\Documents\\SoftUNI\\SoftUni_Csharp-Advanced2\\Iterators and Comparators-Exercise\\05.Comparing Objects\\ComparingObjects.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\luzte_000\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Iterators and Comparators-Exercise\03.Stack\bin\Debug\netcoreapp3.1\03.Stack.exe
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Iterators and Comparators-Exercise\03.Stack\bin\Debug\netcoreapp3.1\03.Stack.deps.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Iterators and Comparators-Exercise\03.Stack\bin\Debug\netcoreapp3.1\03.Stack.runtimeconfig.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Iterators and Comparators-Exercise\03.Stack\bin\Debug\netcoreapp3.1\03.Stack.runtimeconfig.dev.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Iterators and Comparators-Exercise\03.Stack\bin\Debug\netcoreapp3.1\03.Stack.dll
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Iterators and Comparators-Exercise\03.Stack\bin\Debug\netcoreapp3.1\03.Stack.pdb
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Iterators and Comparators-Exercise\03.Stack\obj\Debug\netcoreapp3.1\03.Stack.AssemblyInfoInputs.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Iterators and Comparators-Exercise\03.Stack\obj\Debug\netcoreapp3.1\03.Stack.AssemblyInfo.cs
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Iterators and Comparators-Exercise\03.Stack\obj\Debug\netcoreapp3.1\03.Stack.csproj.CoreCompileInputs.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Iterators and Comparators-Exercise\03.Stack\obj\Debug\netcoreapp3.1\03.Stack.dll
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Iterators and Comparators-Exercise\03.Stack\obj\Debug\netcoreapp3.1\03.Stack.pdb
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\Iterators and Comparators-Exercise\03.Stack\obj\Debug\netcoreapp3.1\03.Stack.genruntimeconfig.cache
