@@ -1,0 +1,13 @@
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\ExamPreparation\Re-Volt\bin\Debug\netcoreapp3.1\Re-Volt.exe
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\ExamPreparation\Re-Volt\bin\Debug\netcoreapp3.1\Re-Volt.deps.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\ExamPreparation\Re-Volt\bin\Debug\netcoreapp3.1\Re-Volt.runtimeconfig.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\ExamPreparation\Re-Volt\bin\Debug\netcoreapp3.1\Re-Volt.runtimeconfig.dev.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\ExamPreparation\Re-Volt\bin\Debug\netcoreapp3.1\Re-Volt.dll
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\ExamPreparation\Re-Volt\bin\Debug\netcoreapp3.1\Re-Volt.pdb
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\ExamPreparation\Re-Volt\obj\Debug\netcoreapp3.1\Re-Volt.csprojAssemblyReference.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\ExamPreparation\Re-Volt\obj\Debug\netcoreapp3.1\Re-Volt.AssemblyInfoInputs.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\ExamPreparation\Re-Volt\obj\Debug\netcoreapp3.1\Re-Volt.AssemblyInfo.cs
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\ExamPreparation\Re-Volt\obj\Debug\netcoreapp3.1\Re-Volt.csproj.CoreCompileInputs.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\ExamPreparation\Re-Volt\obj\Debug\netcoreapp3.1\Re-Volt.dll
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\ExamPreparation\Re-Volt\obj\Debug\netcoreapp3.1\Re-Volt.pdb
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\ExamPreparation\Re-Volt\obj\Debug\netcoreapp3.1\Re-Volt.genruntimeconfig.cache
