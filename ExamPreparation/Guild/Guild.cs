@@ -20,7 +20,7 @@ namespace Guild
 
         public void AddPlayer(Player player)
         {
-            if (roster.Count < this.Capacity && roster.All(x => x.Name != player.Name))
+            if (roster.Count < this.Capacity)
             {
                 this.roster.Add(player);
             }
@@ -28,32 +28,29 @@ namespace Guild
 
         public bool RemovePlayer(string name)
         {
-            if (roster.Any(x => x.Name == name))
+            Player playerToRemove = roster.Find(x => x.Name == name);
+            if (playerToRemove != null)
             {
-                Player playerToRemove = roster.Where(x => x.Name == name).FirstOrDefault();
                 roster.Remove(playerToRemove);
                 return true;
             }
+
             return false;
         }
 
         public void PromotePlayer(string name)
         {
-            if (roster.Any(x => x.Name == name))
-            {
-                Player promotedPlayer = roster.Where(x => x.Name == name).FirstOrDefault();
-                promotedPlayer.Rank = "Member";
-            }
+            if (roster.Find(x => x.Name == name) == null)
+                return;
+            roster.Find(x => x.Name == name).Rank = "Member";
 
         }
 
         public void DemotePlayer(string name)
         {
-            if (roster.Any(x => x.Name == name))
-            {
-                Player demotedPlayer = roster.Where(x => x.Name == name).FirstOrDefault();
-                demotedPlayer.Rank = "Trial";
-            }
+            if (roster.Find(x => x.Name == name) == null)
+                return;
+            roster.Find(x => x.Name == name).Rank = "Trial";
         }
         public Player[] KickPlayersByClass(string classs)
 
