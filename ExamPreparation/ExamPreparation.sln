@@ -5,7 +5,11 @@ VisualStudioVersion = 16.0.30128.74
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClubParty", "ClubParty\ClubParty.csproj", "{342E9103-95A6-4BE9-B918-7AF9B1B86345}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClubParty_New", "ClubParty_New\ClubParty_New.csproj", "{81AB4B14-1832-4228-B423-A1BCD7DCAD62}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClubParty_New", "ClubParty_New\ClubParty_New.csproj", "{81AB4B14-1832-4228-B423-A1BCD7DCAD62}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tron_Racers", "Tron_Racers\Tron_Racers.csproj", "{2E610265-0D80-4DC4-9D60-7257B7B9FD9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Heroes", "Heroes\Heroes.csproj", "{46770BA0-77CD-452F-AF4F-A2224961A88A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{81AB4B14-1832-4228-B423-A1BCD7DCAD62}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{81AB4B14-1832-4228-B423-A1BCD7DCAD62}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{81AB4B14-1832-4228-B423-A1BCD7DCAD62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E610265-0D80-4DC4-9D60-7257B7B9FD9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E610265-0D80-4DC4-9D60-7257B7B9FD9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E610265-0D80-4DC4-9D60-7257B7B9FD9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E610265-0D80-4DC4-9D60-7257B7B9FD9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46770BA0-77CD-452F-AF4F-A2224961A88A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46770BA0-77CD-452F-AF4F-A2224961A88A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46770BA0-77CD-452F-AF4F-A2224961A88A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46770BA0-77CD-452F-AF4F-A2224961A88A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

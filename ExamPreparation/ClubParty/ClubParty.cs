@@ -12,7 +12,7 @@
             //1 20 b 20 20 a
 
 
-            var reservationCapacity = int.Parse(Console.ReadLine());
+            var maxCapacity = int.Parse(Console.ReadLine());
             string input = Console.ReadLine();
             string[] reservation = input.Split(' ', StringSplitOptions.RemoveEmptyEntries).ToArray();
 
@@ -33,6 +33,8 @@
                     halls.Push(hall);
                 }
             }
+            // not understand task - you should read from one stack, linear !!!, otherwise you could not known the sequence !!!
+            // 75/100 in Judge - In fact the task is quite simple, check other Solution - code is from Exam Preparation 
 
             StringBuilder sb = new StringBuilder();
 
@@ -41,13 +43,13 @@
             {
                 bool overflow = false;
                 char currentHall = halls.Peek();
-                int currentHallCapacity = reservationCapacity;
+                int currentHallCapacity = maxCapacity;
                 sb.Append($"{currentHall} -> ");
 
                 while (reservations.Any())
                 {
-                    int currentReservation = reservations.Peek();
-                    int testCapacity = currentHallCapacity - currentReservation;
+                    var currentReservation = reservations.Peek();
+                    var testCapacity = currentHallCapacity - currentReservation;
                     if (testCapacity >= 0)
                     {
                         currentReservation = reservations.Pop();
@@ -63,11 +65,9 @@
                     }
                 }
 
-                if (overflow)
-                {
-                    Console.WriteLine(sb.ToString().TrimEnd(new[] { ',', ' ' }));
-                    sb.Clear();
-                }
+                if (!overflow) continue;
+                Console.WriteLine(sb.ToString().TrimEnd(new[] { ',', ' ' }));
+                sb.Clear();
             }
         }
     }

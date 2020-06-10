@@ -1,0 +1,13 @@
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\ExamPreparation\Heroes\bin\Debug\netcoreapp3.1\Heroes.exe
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\ExamPreparation\Heroes\bin\Debug\netcoreapp3.1\Heroes.deps.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\ExamPreparation\Heroes\bin\Debug\netcoreapp3.1\Heroes.runtimeconfig.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\ExamPreparation\Heroes\bin\Debug\netcoreapp3.1\Heroes.runtimeconfig.dev.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\ExamPreparation\Heroes\bin\Debug\netcoreapp3.1\Heroes.dll
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\ExamPreparation\Heroes\bin\Debug\netcoreapp3.1\Heroes.pdb
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\ExamPreparation\Heroes\obj\Debug\netcoreapp3.1\Heroes.csprojAssemblyReference.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\ExamPreparation\Heroes\obj\Debug\netcoreapp3.1\Heroes.AssemblyInfoInputs.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\ExamPreparation\Heroes\obj\Debug\netcoreapp3.1\Heroes.AssemblyInfo.cs
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\ExamPreparation\Heroes\obj\Debug\netcoreapp3.1\Heroes.csproj.CoreCompileInputs.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\ExamPreparation\Heroes\obj\Debug\netcoreapp3.1\Heroes.dll
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\ExamPreparation\Heroes\obj\Debug\netcoreapp3.1\Heroes.pdb
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\ExamPreparation\Heroes\obj\Debug\netcoreapp3.1\Heroes.genruntimeconfig.cache

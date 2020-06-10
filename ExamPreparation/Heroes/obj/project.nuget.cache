@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KnhX6sq9mdwlwYdMpVP4aPTS+HMv5ESo9g98ho9aNx0/sA8+WG1rRRzpvvpQZxnWZjthj1pQxhZJhsmCKWIDdg==",
+  "success": true,
+  "projectFilePath": "J:\\OneDrive\\Documents\\SoftUNI\\SoftUni_Csharp-Advanced2\\ExamPreparation\\Heroes\\Heroes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\luzte_000\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

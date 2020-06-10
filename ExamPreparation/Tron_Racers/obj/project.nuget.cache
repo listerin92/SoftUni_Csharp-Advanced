@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4F+KHhD/pzFbpMFHoArMNqj23sFJFMtN/WqDx8H34LlSR0KdXRN0RqEwl50era2HbOD7wy9cf87kHHJjtBITVw==",
+  "success": true,
+  "projectFilePath": "J:\\OneDrive\\Documents\\SoftUNI\\SoftUni_Csharp-Advanced2\\ExamPreparation\\Tron_Racers\\Tron_Racers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\luzte_000\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

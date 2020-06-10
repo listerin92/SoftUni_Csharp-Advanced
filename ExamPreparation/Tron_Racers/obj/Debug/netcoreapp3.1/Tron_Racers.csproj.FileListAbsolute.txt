@@ -1,0 +1,13 @@
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\ExamPreparation\Tron_Racers\bin\Debug\netcoreapp3.1\Tron_Racers.exe
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\ExamPreparation\Tron_Racers\bin\Debug\netcoreapp3.1\Tron_Racers.deps.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\ExamPreparation\Tron_Racers\bin\Debug\netcoreapp3.1\Tron_Racers.runtimeconfig.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\ExamPreparation\Tron_Racers\bin\Debug\netcoreapp3.1\Tron_Racers.runtimeconfig.dev.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\ExamPreparation\Tron_Racers\bin\Debug\netcoreapp3.1\Tron_Racers.dll
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\ExamPreparation\Tron_Racers\bin\Debug\netcoreapp3.1\Tron_Racers.pdb
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\ExamPreparation\Tron_Racers\obj\Debug\netcoreapp3.1\Tron_Racers.csprojAssemblyReference.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\ExamPreparation\Tron_Racers\obj\Debug\netcoreapp3.1\Tron_Racers.AssemblyInfoInputs.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\ExamPreparation\Tron_Racers\obj\Debug\netcoreapp3.1\Tron_Racers.AssemblyInfo.cs
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\ExamPreparation\Tron_Racers\obj\Debug\netcoreapp3.1\Tron_Racers.csproj.CoreCompileInputs.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\ExamPreparation\Tron_Racers\obj\Debug\netcoreapp3.1\Tron_Racers.dll
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\ExamPreparation\Tron_Racers\obj\Debug\netcoreapp3.1\Tron_Racers.pdb
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\ExamPreparation\Tron_Racers\obj\Debug\netcoreapp3.1\Tron_Racers.genruntimeconfig.cache
