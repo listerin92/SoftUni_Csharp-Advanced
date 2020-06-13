@@ -21,7 +21,7 @@ namespace Guild
             sb.AppendLine($"Player {this.Name}: {this.Class}");
             sb.AppendLine($"Rank: {this.Rank}");
             sb.AppendLine($"Description: {Description}");
-            return sb.ToString().TrimEnd();
+            return sb.ToString().Trim();
         }
     }
 }

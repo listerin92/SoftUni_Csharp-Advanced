@@ -64,7 +64,7 @@ namespace Guild
         public string Report()
         {
             StringBuilder sb = new StringBuilder();
-            sb.AppendLine($"roster in the guild: {this.Name}");
+            sb.AppendLine($"Players in the guild: {this.Name}");
             if (roster.Count > 0)
             {
                 foreach (var player in roster)
@@ -72,7 +72,7 @@ namespace Guild
                     sb.AppendLine($"{player}");
                 }
             }
-            return sb.ToString();
+            return sb.ToString().Trim();
         }
     }
 }

@@ -1,0 +1,13 @@
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\ExamPreparation\Book Worm\bin\Debug\netcoreapp3.1\Book Worm.exe
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\ExamPreparation\Book Worm\bin\Debug\netcoreapp3.1\Book Worm.deps.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\ExamPreparation\Book Worm\bin\Debug\netcoreapp3.1\Book Worm.runtimeconfig.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\ExamPreparation\Book Worm\bin\Debug\netcoreapp3.1\Book Worm.runtimeconfig.dev.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\ExamPreparation\Book Worm\bin\Debug\netcoreapp3.1\Book Worm.dll
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\ExamPreparation\Book Worm\bin\Debug\netcoreapp3.1\Book Worm.pdb
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\ExamPreparation\Book Worm\obj\Debug\netcoreapp3.1\Book Worm.csprojAssemblyReference.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\ExamPreparation\Book Worm\obj\Debug\netcoreapp3.1\Book Worm.AssemblyInfoInputs.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\ExamPreparation\Book Worm\obj\Debug\netcoreapp3.1\Book Worm.AssemblyInfo.cs
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\ExamPreparation\Book Worm\obj\Debug\netcoreapp3.1\Book Worm.csproj.CoreCompileInputs.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\ExamPreparation\Book Worm\obj\Debug\netcoreapp3.1\Book Worm.dll
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\ExamPreparation\Book Worm\obj\Debug\netcoreapp3.1\Book Worm.pdb
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\ExamPreparation\Book Worm\obj\Debug\netcoreapp3.1\Book Worm.genruntimeconfig.cache

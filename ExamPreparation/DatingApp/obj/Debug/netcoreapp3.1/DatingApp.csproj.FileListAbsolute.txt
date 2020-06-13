@@ -1,0 +1,12 @@
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\ExamPreparation\DatingApp\bin\Debug\netcoreapp3.1\DatingApp.exe
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\ExamPreparation\DatingApp\bin\Debug\netcoreapp3.1\DatingApp.deps.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\ExamPreparation\DatingApp\bin\Debug\netcoreapp3.1\DatingApp.runtimeconfig.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\ExamPreparation\DatingApp\bin\Debug\netcoreapp3.1\DatingApp.runtimeconfig.dev.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\ExamPreparation\DatingApp\bin\Debug\netcoreapp3.1\DatingApp.dll
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\ExamPreparation\DatingApp\bin\Debug\netcoreapp3.1\DatingApp.pdb
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\ExamPreparation\DatingApp\obj\Debug\netcoreapp3.1\DatingApp.AssemblyInfoInputs.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\ExamPreparation\DatingApp\obj\Debug\netcoreapp3.1\DatingApp.AssemblyInfo.cs
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\ExamPreparation\DatingApp\obj\Debug\netcoreapp3.1\DatingApp.csproj.CoreCompileInputs.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\ExamPreparation\DatingApp\obj\Debug\netcoreapp3.1\DatingApp.dll
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\ExamPreparation\DatingApp\obj\Debug\netcoreapp3.1\DatingApp.pdb
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\ExamPreparation\DatingApp\obj\Debug\netcoreapp3.1\DatingApp.genruntimeconfig.cache
