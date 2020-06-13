@@ -19,7 +19,7 @@ namespace Rabbits
         }
         public string Name { get; set; }
         public int Capacity { get; set; }
-        public int Count => data.Count;
+        public int Count => this.data.Count;
         public void Add(Rabbit rabbit)
         {
             if (this.data.Count < this.Capacity)
@@ -66,12 +66,12 @@ namespace Rabbits
         {
             var sb = new StringBuilder();
             sb.AppendLine($"Rabbits available at {this.Name}:");
-            foreach (var rabbit in data.Where(x => x.Available))
+            foreach (var rabbit in this.data.Where(x => x.Available))
             {
-                sb.AppendLine($"{rabbit}");
+                sb.AppendLine(rabbit.ToString());
             }
 
-            return sb.ToString().Trim();
+            return sb.ToString().TrimEnd();
         }
     }
 }
