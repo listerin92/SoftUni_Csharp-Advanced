@@ -111,7 +111,7 @@ namespace Re_Volt
             }
         }
 
-        private static void ChangePlayerPosition(Player player, char[,] matrix, string playerCommand)
+        private static void ChangePlayerPosition(Player player, char[,] matrix, string playerCommand) //if hit the wall go the oposite side
         {
             if (playerCommand == "up")
             {

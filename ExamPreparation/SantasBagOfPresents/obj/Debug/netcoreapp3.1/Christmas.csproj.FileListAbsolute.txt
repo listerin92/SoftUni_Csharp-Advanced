@@ -1,0 +1,13 @@
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\ExamPreparation\SantasBagOfPresents\bin\Debug\netcoreapp3.1\Christmas.exe
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\ExamPreparation\SantasBagOfPresents\bin\Debug\netcoreapp3.1\Christmas.deps.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\ExamPreparation\SantasBagOfPresents\bin\Debug\netcoreapp3.1\Christmas.runtimeconfig.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\ExamPreparation\SantasBagOfPresents\bin\Debug\netcoreapp3.1\Christmas.runtimeconfig.dev.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\ExamPreparation\SantasBagOfPresents\bin\Debug\netcoreapp3.1\Christmas.dll
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\ExamPreparation\SantasBagOfPresents\bin\Debug\netcoreapp3.1\Christmas.pdb
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\ExamPreparation\SantasBagOfPresents\obj\Debug\netcoreapp3.1\Christmas.csprojAssemblyReference.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\ExamPreparation\SantasBagOfPresents\obj\Debug\netcoreapp3.1\Christmas.AssemblyInfoInputs.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\ExamPreparation\SantasBagOfPresents\obj\Debug\netcoreapp3.1\Christmas.AssemblyInfo.cs
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\ExamPreparation\SantasBagOfPresents\obj\Debug\netcoreapp3.1\Christmas.csproj.CoreCompileInputs.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\ExamPreparation\SantasBagOfPresents\obj\Debug\netcoreapp3.1\Christmas.dll
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\ExamPreparation\SantasBagOfPresents\obj\Debug\netcoreapp3.1\Christmas.pdb
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\ExamPreparation\SantasBagOfPresents\obj\Debug\netcoreapp3.1\Christmas.genruntimeconfig.cache

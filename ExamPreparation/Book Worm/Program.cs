@@ -41,7 +41,7 @@ namespace Book_Worm
                 for (int j = 0; j < matrixSize; j++)
                 {
                     matrix[i, j] = matrixLine[j];
-                    FindInitialPlayerPositionAndFinish(playerOne, matrix, j, i);
+                    FindInitialPlayerPosition(playerOne, matrix, j, i);
                 }
             }
         }
@@ -63,7 +63,7 @@ namespace Book_Worm
             return matrix[player.X, player.Y] != '-';
         }
 
-        private static void FindInitialPlayerPositionAndFinish(Player playerOne, char[,] matrix, int j, int i)
+        private static void FindInitialPlayerPosition(Player playerOne, char[,] matrix, int j, int i)
         {
             if (matrix[i, j] == 'P')
             {
@@ -72,7 +72,7 @@ namespace Book_Worm
                 playerOne.Y = j;
             }
         }
-        private static bool ChangePlayerPosition(Player player, char[,] matrix, string playerCommand)
+        private static bool ChangePlayerPosition(Player player, char[,] matrix, string playerCommand) // if hit the wall stay there
         {
             if (playerCommand == "up")
             {

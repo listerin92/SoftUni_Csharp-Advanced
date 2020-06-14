@@ -1,0 +1,13 @@
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\ExamPreparation\SantasPresentFactory\bin\Debug\netcoreapp3.1\SantasPresentFactory.exe
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\ExamPreparation\SantasPresentFactory\bin\Debug\netcoreapp3.1\SantasPresentFactory.deps.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\ExamPreparation\SantasPresentFactory\bin\Debug\netcoreapp3.1\SantasPresentFactory.runtimeconfig.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\ExamPreparation\SantasPresentFactory\bin\Debug\netcoreapp3.1\SantasPresentFactory.runtimeconfig.dev.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\ExamPreparation\SantasPresentFactory\bin\Debug\netcoreapp3.1\SantasPresentFactory.dll
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\ExamPreparation\SantasPresentFactory\bin\Debug\netcoreapp3.1\SantasPresentFactory.pdb
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\ExamPreparation\SantasPresentFactory\obj\Debug\netcoreapp3.1\SantasPresentFactory.csprojAssemblyReference.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\ExamPreparation\SantasPresentFactory\obj\Debug\netcoreapp3.1\SantasPresentFactory.AssemblyInfoInputs.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\ExamPreparation\SantasPresentFactory\obj\Debug\netcoreapp3.1\SantasPresentFactory.AssemblyInfo.cs
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\ExamPreparation\SantasPresentFactory\obj\Debug\netcoreapp3.1\SantasPresentFactory.csproj.CoreCompileInputs.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\ExamPreparation\SantasPresentFactory\obj\Debug\netcoreapp3.1\SantasPresentFactory.dll
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\ExamPreparation\SantasPresentFactory\obj\Debug\netcoreapp3.1\SantasPresentFactory.pdb
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\ExamPreparation\SantasPresentFactory\obj\Debug\netcoreapp3.1\SantasPresentFactory.genruntimeconfig.cache

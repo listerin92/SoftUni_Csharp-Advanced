@@ -95,7 +95,7 @@ namespace Tron_Racers
             return matrix[player.X, player.Y] != player.Flag && matrix[player.X, player.Y] != '*'; //if not my flag and not empty
         }
 
-        private static void ChangePlayerPosition(Player player, char[,] matrix, string playerCommand)
+        private static void ChangePlayerPosition(Player player, char[,] matrix, string playerCommand)// if hit a wall go the other side
         {
             if (playerCommand == "up")
             {
