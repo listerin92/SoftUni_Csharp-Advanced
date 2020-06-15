@@ -1,0 +1,13 @@
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\TrainingBeforeExamp\CompositePattern\bin\Debug\netcoreapp3.1\CompositePattern.exe
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\TrainingBeforeExamp\CompositePattern\bin\Debug\netcoreapp3.1\CompositePattern.deps.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\TrainingBeforeExamp\CompositePattern\bin\Debug\netcoreapp3.1\CompositePattern.runtimeconfig.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\TrainingBeforeExamp\CompositePattern\bin\Debug\netcoreapp3.1\CompositePattern.runtimeconfig.dev.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\TrainingBeforeExamp\CompositePattern\bin\Debug\netcoreapp3.1\CompositePattern.dll
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\TrainingBeforeExamp\CompositePattern\bin\Debug\netcoreapp3.1\CompositePattern.pdb
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\TrainingBeforeExamp\CompositePattern\obj\Debug\netcoreapp3.1\CompositePattern.csprojAssemblyReference.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\TrainingBeforeExamp\CompositePattern\obj\Debug\netcoreapp3.1\CompositePattern.AssemblyInfoInputs.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\TrainingBeforeExamp\CompositePattern\obj\Debug\netcoreapp3.1\CompositePattern.AssemblyInfo.cs
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\TrainingBeforeExamp\CompositePattern\obj\Debug\netcoreapp3.1\CompositePattern.csproj.CoreCompileInputs.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\TrainingBeforeExamp\CompositePattern\obj\Debug\netcoreapp3.1\CompositePattern.dll
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\TrainingBeforeExamp\CompositePattern\obj\Debug\netcoreapp3.1\CompositePattern.pdb
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\TrainingBeforeExamp\CompositePattern\obj\Debug\netcoreapp3.1\CompositePattern.genruntimeconfig.cache
