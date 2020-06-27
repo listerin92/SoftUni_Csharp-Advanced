@@ -17,19 +17,23 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Re-Volt", "Re-Volt\Re-Volt.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Guild", "Guild\Guild.csproj", "{1EC69A3E-29B3-48CB-A306-7CC7F3326B33}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatingApp", "DatingApp\DatingApp.csproj", "{1CAC9381-257D-4613-B75E-BD9887AC17C0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DatingApp", "DatingApp\DatingApp.csproj", "{1CAC9381-257D-4613-B75E-BD9887AC17C0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatingApp_old", "DatingApp_old\DatingApp_old.csproj", "{63C2D90B-C15D-4949-B9FB-FCB997B2BA0B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DatingApp_old", "DatingApp_old\DatingApp_old.csproj", "{63C2D90B-C15D-4949-B9FB-FCB997B2BA0B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Book Worm", "Book Worm\Book Worm.csproj", "{F5FF26BC-6059-4EF6-A87A-EBAEDB8EFBF9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Book Worm", "Book Worm\Book Worm.csproj", "{F5FF26BC-6059-4EF6-A87A-EBAEDB8EFBF9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rabbits", "Rabbits\Rabbits.csproj", "{7BAB0255-3565-4903-8215-AB90AA43927C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Rabbits", "Rabbits\Rabbits.csproj", "{7BAB0255-3565-4903-8215-AB90AA43927C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SantasPresentFactory", "SantasPresentFactory\SantasPresentFactory.csproj", "{922395E8-F715-4A09-BB7A-F11D751365EA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SantasPresentFactory", "SantasPresentFactory\SantasPresentFactory.csproj", "{922395E8-F715-4A09-BB7A-F11D751365EA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PresentDelivery", "PresentDelivery\PresentDelivery.csproj", "{3B682222-DF16-477B-8A31-AA6F04FF433C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PresentDelivery", "PresentDelivery\PresentDelivery.csproj", "{3B682222-DF16-477B-8A31-AA6F04FF433C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Christmas", "SantasBagOfPresents\Christmas.csproj", "{25010077-C774-4361-AA0B-B81B66E366FD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Christmas", "SantasBagOfPresents\Christmas.csproj", "{25010077-C774-4361-AA0B-B81B66E366FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SantasPresentFactory_exerciseSolution", "SantasPresentFactory_excersieSolution\SantasPresentFactory_exerciseSolution.csproj", "{D89F82B2-CFB2-4F01-BFC0-CC86519B288D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PresentDelivery_exerciseSolution", "PresentDelivery_exerciseSolution\PresentDelivery_exerciseSolution.csproj", "{122085BE-C757-4585-9A5C-A8ACC1456CC9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +97,14 @@ Global
 		{25010077-C774-4361-AA0B-B81B66E366FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{25010077-C774-4361-AA0B-B81B66E366FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{25010077-C774-4361-AA0B-B81B66E366FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D89F82B2-CFB2-4F01-BFC0-CC86519B288D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D89F82B2-CFB2-4F01-BFC0-CC86519B288D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D89F82B2-CFB2-4F01-BFC0-CC86519B288D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D89F82B2-CFB2-4F01-BFC0-CC86519B288D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{122085BE-C757-4585-9A5C-A8ACC1456CC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{122085BE-C757-4585-9A5C-A8ACC1456CC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{122085BE-C757-4585-9A5C-A8ACC1456CC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{122085BE-C757-4585-9A5C-A8ACC1456CC9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

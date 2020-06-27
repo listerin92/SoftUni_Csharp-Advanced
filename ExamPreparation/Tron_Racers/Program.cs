@@ -105,7 +105,7 @@ namespace Tron_Racers
                 }
                 else
                 {
-                    player.X = player.X - 1;
+                    player.X -= 1;
                 }
             }
             else if (playerCommand == "down")
@@ -116,7 +116,7 @@ namespace Tron_Racers
                 }
                 else
                 {
-                    player.X = player.X + 1;
+                    player.X += 1;
                 }
             }
             else if (playerCommand == "left")
@@ -127,7 +127,7 @@ namespace Tron_Racers
                 }
                 else
                 {
-                    player.Y = player.Y - 1;
+                    player.Y -= 1;
                 }
             }
             else if (playerCommand == "right")
@@ -138,7 +138,7 @@ namespace Tron_Racers
                 }
                 else
                 {
-                    player.Y = player.Y + 1;
+                    player.Y += 1;
                 }
             }
         }

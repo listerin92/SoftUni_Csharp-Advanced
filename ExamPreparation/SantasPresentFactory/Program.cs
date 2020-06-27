@@ -17,17 +17,20 @@ namespace SantasPresentFactory
 
             Stack<int> boxOfMaterials = new Stack<int>(boxOfMaterialsArr);
             Queue<int> magicLevel = new Queue<int>(magicLevelArr);
-            Dictionary<string, int> presents = new Dictionary<string, int>();
-            presents.Add("Doll", 0);
-            presents.Add("Wooden train", 0);
-            presents.Add("Teddy bear", 0);
-            presents.Add("Bicycle", 0);
+            var presents = new Dictionary<string, int>
+            {
+                { "Doll", 0 },
+                { "Wooden train", 0 },
+                { "Teddy bear", 0 },
+                { "Bicycle", 0 }
+            };
             while (boxOfMaterials.Any() && magicLevel.Any())
             {
                 int currentBoxOfMaterial = boxOfMaterials.Peek();
                 int currentMagicLevel = magicLevel.Peek();
+                var boxOfMaterial = currentBoxOfMaterial * currentMagicLevel;
 
-                if (currentBoxOfMaterial == 0 || currentMagicLevel == 0)
+                if (boxOfMaterial == 0)
                 {
                     if (currentBoxOfMaterial == 0)
                     {
@@ -40,35 +43,35 @@ namespace SantasPresentFactory
                     continue;
                 }
 
-                if (currentBoxOfMaterial * currentMagicLevel == 150)
+                if (boxOfMaterial == 150)
                 {
                     presents["Doll"]++;
                     boxOfMaterials.Pop();
                     magicLevel.Dequeue();
                     continue;
                 }
-                if (currentBoxOfMaterial * currentMagicLevel == 250)
+                if (boxOfMaterial == 250)
                 {
                     presents["Wooden train"]++;
                     boxOfMaterials.Pop();
                     magicLevel.Dequeue();
                     continue;
                 }
-                if (currentBoxOfMaterial * currentMagicLevel == 300)
+                if (boxOfMaterial == 300)
                 {
                     presents["Teddy bear"]++;
                     boxOfMaterials.Pop();
                     magicLevel.Dequeue();
                     continue;
                 }
-                if (currentBoxOfMaterial * currentMagicLevel == 400)
+                if (boxOfMaterial == 400)
                 {
                     presents["Bicycle"]++;
                     boxOfMaterials.Pop();
                     magicLevel.Dequeue();
                     continue;
                 }
-                if (currentBoxOfMaterial * currentMagicLevel < 0)
+                if (boxOfMaterial < 0)
                 {
                     int temp = currentBoxOfMaterial + currentMagicLevel;
                     boxOfMaterials.Pop();

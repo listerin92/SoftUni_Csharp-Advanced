@@ -28,9 +28,7 @@ namespace Christmas
         public bool Remove(string name)
         {
             Present present = data.Find(x => x.Name == name);
-            if (present == null) return false;
-            data.Remove(present);
-            return true;
+            return data.Remove(present);
         }
 
         public Present GetHeaviestPresent()
