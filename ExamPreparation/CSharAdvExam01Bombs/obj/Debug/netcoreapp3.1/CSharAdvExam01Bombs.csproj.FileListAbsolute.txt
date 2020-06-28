@@ -1,0 +1,13 @@
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\ExamPreparation\CSharAdvExam01Bombs\bin\Debug\netcoreapp3.1\CSharAdvExam01Bombs.exe
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\ExamPreparation\CSharAdvExam01Bombs\bin\Debug\netcoreapp3.1\CSharAdvExam01Bombs.deps.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\ExamPreparation\CSharAdvExam01Bombs\bin\Debug\netcoreapp3.1\CSharAdvExam01Bombs.runtimeconfig.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\ExamPreparation\CSharAdvExam01Bombs\bin\Debug\netcoreapp3.1\CSharAdvExam01Bombs.runtimeconfig.dev.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\ExamPreparation\CSharAdvExam01Bombs\bin\Debug\netcoreapp3.1\CSharAdvExam01Bombs.dll
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\ExamPreparation\CSharAdvExam01Bombs\bin\Debug\netcoreapp3.1\CSharAdvExam01Bombs.pdb
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\ExamPreparation\CSharAdvExam01Bombs\obj\Debug\netcoreapp3.1\CSharAdvExam01Bombs.csprojAssemblyReference.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\ExamPreparation\CSharAdvExam01Bombs\obj\Debug\netcoreapp3.1\CSharAdvExam01Bombs.AssemblyInfoInputs.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\ExamPreparation\CSharAdvExam01Bombs\obj\Debug\netcoreapp3.1\CSharAdvExam01Bombs.AssemblyInfo.cs
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\ExamPreparation\CSharAdvExam01Bombs\obj\Debug\netcoreapp3.1\CSharAdvExam01Bombs.csproj.CoreCompileInputs.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\ExamPreparation\CSharAdvExam01Bombs\obj\Debug\netcoreapp3.1\CSharAdvExam01Bombs.dll
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\ExamPreparation\CSharAdvExam01Bombs\obj\Debug\netcoreapp3.1\CSharAdvExam01Bombs.pdb
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\ExamPreparation\CSharAdvExam01Bombs\obj\Debug\netcoreapp3.1\CSharAdvExam01Bombs.genruntimeconfig.cache

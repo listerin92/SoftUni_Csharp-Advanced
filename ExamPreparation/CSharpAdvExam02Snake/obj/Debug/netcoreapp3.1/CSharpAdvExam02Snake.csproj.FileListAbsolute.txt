@@ -1,0 +1,13 @@
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\ExamPreparation\CSharpAdvExam02Snake\bin\Debug\netcoreapp3.1\CSharpAdvExam02Snake.exe
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\ExamPreparation\CSharpAdvExam02Snake\bin\Debug\netcoreapp3.1\CSharpAdvExam02Snake.deps.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\ExamPreparation\CSharpAdvExam02Snake\bin\Debug\netcoreapp3.1\CSharpAdvExam02Snake.runtimeconfig.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\ExamPreparation\CSharpAdvExam02Snake\bin\Debug\netcoreapp3.1\CSharpAdvExam02Snake.runtimeconfig.dev.json
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\ExamPreparation\CSharpAdvExam02Snake\bin\Debug\netcoreapp3.1\CSharpAdvExam02Snake.dll
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\ExamPreparation\CSharpAdvExam02Snake\bin\Debug\netcoreapp3.1\CSharpAdvExam02Snake.pdb
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\ExamPreparation\CSharpAdvExam02Snake\obj\Debug\netcoreapp3.1\CSharpAdvExam02Snake.csprojAssemblyReference.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\ExamPreparation\CSharpAdvExam02Snake\obj\Debug\netcoreapp3.1\CSharpAdvExam02Snake.AssemblyInfoInputs.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\ExamPreparation\CSharpAdvExam02Snake\obj\Debug\netcoreapp3.1\CSharpAdvExam02Snake.AssemblyInfo.cs
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\ExamPreparation\CSharpAdvExam02Snake\obj\Debug\netcoreapp3.1\CSharpAdvExam02Snake.csproj.CoreCompileInputs.cache
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\ExamPreparation\CSharpAdvExam02Snake\obj\Debug\netcoreapp3.1\CSharpAdvExam02Snake.dll
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\ExamPreparation\CSharpAdvExam02Snake\obj\Debug\netcoreapp3.1\CSharpAdvExam02Snake.pdb
+J:\OneDrive\Documents\SoftUNI\SoftUni_Csharp-Advanced2\ExamPreparation\CSharpAdvExam02Snake\obj\Debug\netcoreapp3.1\CSharpAdvExam02Snake.genruntimeconfig.cache
